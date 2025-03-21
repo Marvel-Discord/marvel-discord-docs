@@ -34,7 +34,7 @@ const FeatureList: FeatureItem[] = [
       <>
         If there's information missing, incorrect, outdated, or could be more
         detailed: please contribute! Instructions on how to contribute can be
-        found in the <a href="/docs/contributing">Contributing</a> section.
+        found in the <a href="/management/contribute">Contributing</a> section.
       </>
     ),
   },
