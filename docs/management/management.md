@@ -1,6 +1,5 @@
 ---
 sidebar_position: 0
-slug: /management
 sidebar_label: Overview
 ---
 
