@@ -70,7 +70,12 @@ sidebar_position: 3
 
 This is my **first Docusaurus document**!
 ```
-<sup>*Thanks to Docusaurus for this brilliant exemplar!!*</sup>
+
+You can view the changes you make in real-time by running the development server.
+
+```cmd
+npx docusaurus start
+```
 
 ### Saving your changes
 
