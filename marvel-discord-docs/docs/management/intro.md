@@ -3,46 +3,20 @@ sidebar_position: 0
 slug: /management
 ---
 
-# Tutorial Intro
+# Management Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+This set of documentation covers fields that are generally covered by the Celestial (management) team.
 
-## Getting Started
+This is largely around the more behind-the-scenes administrative tasks around the server as well as community engagements. 
 
-Get started by **creating a new site**.
+## Staff structure
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+The head of the management team is **Rocked03 ([@rocked03](https://discord.com/users/204778476102877187))**.
 
-### What you'll need
+The management team comprises of the *@Celestial (Manager)* role. 
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### Celestials (Managers)
 
-## Generate a new site
+Currently, there is only one management role, which encompasses all management responsibilities.
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+The current Celestial team consists of **[@rocked03](https://discord.com/users/204778476102877187)**, [@gryphyn](https://discord.com/users/425133411837935628), [@julianinvictus](https://discord.com/users/621018366655725570), [@neverrmett](https://discord.com/users/734640971232444486), [@reignthunder](https://discord.com/users/217157630215323648), [@rixov](https://discord.com/users/1289511684058120193), [@shake.png](https://discord.com/users/1034384071415050300), and [@sick_ranchez](https://discord.com/users/947853707331121282).

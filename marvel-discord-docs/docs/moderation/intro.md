@@ -3,46 +3,30 @@ sidebar_position: 0
 slug: /moderation
 ---
 
-# Tutorial Intro
+# Moderation intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+This set of documentation covers fields that are covered by the Watcher (moderation) team.
 
-## Getting Started
+These are the tasks required to keep the community and channels safe, healthy, and welcoming.
 
-Get started by **creating a new site**.
+## Staff structure
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+The co-heads of the management team are **Shake ([@shake.png](https://discord.com/users/1034384071415050300))** and **Finn ([@gryphyn](https://discord.com/users/425133411837935628))**.
 
-### What you'll need
+The moderation team comprises of the *@Watcher (Moderation)* and *Ultimate (Casual Mod)* roles. 
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### Watchers (Moderators)
 
-## Generate a new site
+Watchers are full-time moderators. They have the full responsibilities of a moderator with full moderation capabilities, including bans and appeals. 
 
-Generate a new Docusaurus site using the **classic template**.
+The current Watcher team consists of **[@gryphyn](https://discord.com/users/425133411837935628)**, **[@shake.png](https://discord.com/users/1034384071415050300)**, [@alextheraccoonking](https://discord.com/users/592820371682492438), [@cs0119](https://discord.com/users/582080465482285056), [@ducki_the_great](https://discord.com/users/1173791198545203212), [@morganstarkk](https://discord.com/users/1164870671302660222), and [@vokzul](https://discord.com/users/162453378364997633).
 
-The classic template will automatically be added to your project after you run the command:
+### Ultimates (Casual Moderators)
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+Ultimates are casual-term moderators. They have partial responsibilities of a moderator, with the ability to warn and mute members, notably in cases where Watchers are unavailable. 
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+Their position lasts a fixed-term of roughly one month. Each period, the number of casual mods required is decided internally and positions are filled from both casual mods interested in remaining and other users interested in joining, all at the discretion of the head mods. 
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+### Moderators in Training
 
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Newly inducted Watchers (full-time moderators) first start in training. After a set period of time, if they prove themselves to be a capable member of the team, they become a fully-fledged Watcher. 
