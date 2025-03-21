@@ -1,6 +1,6 @@
 ---
 sidebar_position: 0
-sidebar_label: Rules
+sidebar_label: Server Rules
 ---
 
 # Server Rules

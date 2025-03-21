@@ -110,7 +110,7 @@ const config: Config = {
 							href: "https://discord.gg/ppm8DXZxKp",
 						},
 						{
-							label: "Moderation server",
+							label: "Moderation Hub",
 							href: "https://discord.com/channels/915931105977319455/915931106426097716",
 						},
 					],
