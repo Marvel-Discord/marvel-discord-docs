@@ -44,7 +44,7 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      description="Marvel Discord documentation"
     >
       <HomepageHeader />
       <main>

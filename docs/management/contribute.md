@@ -24,7 +24,11 @@ To contribute, push your edits to a branch and open a pull request.
 
 ### Cloning the repository
 
-<sup>*n.b.: These instructions work for Windows. Go to [this guide](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) for Mac and Linux.*</sup>
+:::tip[Note]
+
+While git is independent of your OS, some of these commands only work for Windows. Go to [this guide](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) for Mac and Linux.
+
+:::
 
 You can clone the repository with these commands in the Command Prompt terminal.
 
@@ -66,7 +70,12 @@ sidebar_position: 3
 
 This is my **first Docusaurus document**!
 ```
-<sup>*Thanks to Docusaurus for this brilliant exemplar!!*</sup>
+
+You can view the changes you make in real-time by running the development server.
+
+```cmd
+npx docusaurus start
+```
 
 ### Saving your changes
 
@@ -80,6 +89,8 @@ Once you've pushed your changes, go to [the repository](https://github.com/Rocke
 
 The pull request will be reviewed by Rocked. Some edits (content, styling, etc.) may possibly be required before merging. Once the pull request is approved, you can merge it into the main branch, and your changes will be automatically deployed to the website. 
 
-## Confused?
+:::tip[Confused?]
 
 Just ask in the staff room in the server! Rocked or anybody else will be happy to help you out. 😊
+
+:::
