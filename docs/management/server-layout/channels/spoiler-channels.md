@@ -11,10 +11,10 @@ Spoiler channel rules and guidelines TODO
 
 TODO
 
-## https://discord.com/channels/281648235557421056/1109731729385721926
+## [#future-screen-spoilers](https://discord.com/channels/281648235557421056/1109731729385721926)
 TODO
 
-## [#non-marvel=spoilers](https://discord.com/channels/281648235557421056/1109733536832946196)
+## [#non-marvel-spoilers](https://discord.com/channels/281648235557421056/1109733536832946196)
 
 TODO
 
