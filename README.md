@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3807aca7-0fa3-477f-82ba-465bd02939cd/deploy-status)](https://app.netlify.com/sites/marvel-discord-docs/deploys)
+
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
