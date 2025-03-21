@@ -1,9 +1,10 @@
 ---
 sidebar_position: 0
 slug: /management
+sidebar_label: Overview
 ---
 
-# Management Intro
+# Management Overview
 
 This set of documentation covers fields that are generally covered by the Celestial (management) team.
 

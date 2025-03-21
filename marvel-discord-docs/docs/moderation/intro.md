@@ -1,9 +1,10 @@
 ---
 sidebar_position: 0
 slug: /moderation
+sidebar_label: Overview
 ---
 
-# Moderation intro
+# Moderation Overview
 
 This set of documentation covers fields that are covered by the Watcher (moderation) team.
 
