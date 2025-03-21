@@ -42,6 +42,9 @@ const config: Config = {
 					editUrl:
 						"https://github.com/Rocked03/marvel-discord-docs/marvel-discord-docs",
 					routeBasePath: "/",
+					breadcrumbs: true,
+					showLastUpdateAuthor: true,
+					showLastUpdateTime: true,
 				},
 				theme: {
 					customCss: "./src/css/custom.css",
