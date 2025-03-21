@@ -10,7 +10,7 @@ const config: Config = {
 	favicon: "img/favicon.ico",
 
 	// Set the production url of your site here
-	url: "https://your-docusaurus-site.example.com",
+	url: "https://marvel-discord-docs.netlify.app/",
 	// Set the /<baseUrl>/ pathname under which your site is served
 	// For GitHub pages deployment, it is often '/<projectName>/'
 	baseUrl: "/",
@@ -56,7 +56,7 @@ const config: Config = {
 		navbar: {
 			title: "Marvel Discord",
 			logo: {
-				alt: "My Site Logo",
+				alt: "Marvel Discord logo",
 				src: "img/icon-red-filled-square.svg",
 			},
 			items: [
