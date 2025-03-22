@@ -113,6 +113,10 @@ const config: Config = {
 							label: "Moderation Hub",
 							href: "https://discord.com/channels/915931105977319455/915931106426097716",
 						},
+						{
+							label: "Home webpage",
+							href: "https://marvelcord.com/",
+						},
 					],
 				},
 				{
