@@ -29,4 +29,4 @@ TODO
 
 # Spoiler Channel Archive Map
 
-TODO - see [Spoiler Channels](./server-layout/channels/spoiler-channels)
+TODO - see [Spoiler Channels](./channels/spoiler-channels)
