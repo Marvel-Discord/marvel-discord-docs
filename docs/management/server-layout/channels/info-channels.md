@@ -17,7 +17,7 @@ TODO
 
 ### How to post news
 
-Send the link in the channel, easy as that. Jocasta auto-publishes it and pings the news ping role. If you want to send a message without a ping, just prepend the message with `@silent` then a newline.
+Send the link in the channel, easy as that. Jocasta auto-publishes it and [pings the @News Ping role](../../roles/ping-roles/#news-ping). If you want to send a message without a ping, just prepend the message with `@silent` then a newline.
 
 ```
 @silent
