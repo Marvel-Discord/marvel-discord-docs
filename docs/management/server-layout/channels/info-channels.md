@@ -11,7 +11,9 @@ See [Rules](../../../moderation/rules.md).
 
 ## [#announcements](https://discord.com/channels/281648235557421056/1110214786223968346)
 
-TODO
+This channel is for server-related announcements. It's rather loose on what belongs here, but it's typically used to announce updates (like spoiler channel changes), events, milestones, etc. 
+
+There's no guidelines on how formal or casual this channel should be, but messages should have some purpose (please don't use the channel to just shitpost!)
 
 ## News channels
 
