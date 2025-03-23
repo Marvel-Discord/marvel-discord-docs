@@ -5,9 +5,9 @@ sidebar_label: TYKHE
 
 # TYKHE
 
-TYKHE is a Discord-based digital card-collecting gacha game. It's a joint venture by the Marvel Studios and DC Films servers, and we're a partner server in this event.
+TYKHE is a Discord-based digital card-collecting gacha game. It's a joint venture by the Marvel Studios and DC Films servers, and we're a partner server in this activity.
 
-We don't do anything in particular to help run the event. 
+We don't do anything in particular to help run the activity.
 
 :::tip[Bridge Server]
 
