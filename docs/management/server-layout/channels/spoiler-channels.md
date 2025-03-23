@@ -74,3 +74,7 @@ Spoiler channels for theatrical releases are closed roughly around one month aft
    - See [above](#opening-a-spoiler-channel) for details.
 5. Post announcement in [#announcements](https://discord.com/channels/281648235557421056/1110214786223968346) stating that it's closed.
    - If it's a film that hasn't hit digital yet, it's good to advise people to be mindful of spoilers for others and to use spoiler tags.
+
+### Spoiler Channel Archive
+
+See [Spoilers Archive](./archived-channels#spoilers-archive) for details.
