@@ -5,7 +5,7 @@ sidebar_label: Spectacular Channels
 
 # Spectacular Channels
 
-## [mightiest-heroes](https://discord.com/channels/281648235557421056/1110202058587525172)
+## [#mightiest-heroes](https://discord.com/channels/281648235557421056/1110202058587525172)
 
 Boosters - TODO
 
