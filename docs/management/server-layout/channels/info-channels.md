@@ -11,13 +11,15 @@ See [Rules](../../../moderation/rules.md).
 
 ## [#announcements](https://discord.com/channels/281648235557421056/1110214786223968346)
 
-TODO
+This channel is for server-related announcements. It's rather loose on what belongs here, but it's typically used to announce updates (like spoiler channel changes), events, milestones, etc. 
+
+There's no guidelines on how formal or casual this channel should be, but messages should have some purpose (please don't use the channel to just shitpost!)
 
 ## News channels
 
 ### How to post news
 
-Send the link in the channel, easy as that. Jocasta auto-publishes it and pings the news ping role. If you want to send a message without a ping, just prepend the message with `@silent` then a newline.
+Send the link in the channel, easy as that. Jocasta auto-publishes it and [pings the @News Ping role](../roles/ping-roles#news-ping). If you want to send a message without a ping, just prepend the message with `@silent` then a newline.
 
 ```
 @silent

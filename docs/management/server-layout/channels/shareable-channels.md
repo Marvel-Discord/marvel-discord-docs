@@ -5,7 +5,7 @@ sidebar_label: Shareable Channels
 
 # Shareable Channels
 
-## [#share=fan-creations](https://discord.com/channels/281648235557421056/1110201220666228858)
+## [#share-fan-creations](https://discord.com/channels/281648235557421056/1110201220666228858)
 
 TODO
 

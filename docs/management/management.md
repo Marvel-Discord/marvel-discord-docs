@@ -20,3 +20,11 @@ The management team comprises of the *@Celestial (Manager)* role.
 Currently, there is only one management role, which encompasses all management responsibilities.
 
 The current Celestial team consists of **[@rocked03](https://discord.com/users/204778476102877187)**, [@gryphyn](https://discord.com/users/425133411837935628), [@julianinvictus](https://discord.com/users/621018366655725570), [@neverrmett](https://discord.com/users/734640971232444486), [@reignthunder](https://discord.com/users/217157630215323648), [@rixov](https://discord.com/users/1289511684058120193), [@shake.png](https://discord.com/users/1034384071415050300), and [@sick_ranchez](https://discord.com/users/947853707331121282).
+
+#### Permissions
+
+As a security precaution, the Celestial role does not have any permissions. Users with this role, however, are able to temporarily grant themselves permissions with the command below. This gives necessary permissions to make changes to the server. The role is automatically removed after 24 hours or until the command is triggered again. 
+
+```
+/manage-server-perms
+```
