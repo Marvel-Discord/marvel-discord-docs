@@ -9,28 +9,22 @@ sidebar_label: Activity Roles
 
 Level roles are managed by the MEE6 bot, which tracks the message activity of users in the server. When a user sends a message (once per minute), they accumulate exp that contributes to their level. The levels are as follows:
 
-- *@SHIELD Recruit* - Allows you to connect, but not speak in the voice channels (level 1).
-- *@Inhuman* - Allows you to change your nickname and post images (level 3)
-- *@New Mutant* - Allows you to speak in the voice channels, embed links and add reactions (level 10)
-- *@Young Avenger* - (level 15)
-- *@Future Foundation* - (level 20)
-- *@Champion* - (level 25)
-- *@Runaway* - (level 30)
-- *@Thunderbolt* - Allows you to use TTS messages. (level 35)
-- *@Nova Corps* - (level 40)
-- *@HYDRA Agent* - (level 45)
-- *@Defender* - (level 50)
-- *@Web Warrior* - (level 60)
-- *@Eternal* - (level 70)
-- *@Dark Avenger* - (level 80)
-- *@H.A.M.M.E.R.* - (level 90)
-- *@Assembled Avenger* - Custom color of your choice (level 100).
-
-:::danger
-
-This info might be outdated. Please also update `!levels` in the MEE6 bot if you correct anything here. *(2025-03-22)*
-
-:::
+- Level 1 - *@SHIELD Recruit* - Can use external emoji.
+- Level 3 - *@Inhuman* - Can change nickname, send files and images, and add reactions
+- Level 10 - *@New Mutant* - Allows you to speak in the voice channels and embed links.
+- Level 15 - *@Young Avenger*
+- Level 20 - *@Future Foundation*
+- Level 25 - *@Champion*
+- Level 30 - *@Runaway*
+- Level 35 - *@Thunderbolt*
+- Level 40 - *@Nova Corps*
+- Level 45 - *@HYDRA Agent*
+- Level 50 - *@Defender*
+- Level 60 - *@Web Warrior*
+- Level 70 - *@Eternal*
+- Level 80 - *@Dark Avenger*
+- Level 90 - *@H.A.M.M.E.R.*
+- Level 100 - *@Assembled Avenger*
 
 ## Special Roles
 
