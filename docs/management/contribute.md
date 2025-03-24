@@ -24,7 +24,7 @@ To contribute, push your edits to a branch and open a pull request.
 
 ### Cloning the repository
 
-:::tip[Note]
+:::warning[Note]
 
 While git is independent of your OS, some of these commands only work for Windows. Go to [this guide](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) for Mac and Linux.
 
@@ -89,7 +89,7 @@ Once you've pushed your changes, go to [the repository](https://github.com/Rocke
 
 The pull request will be reviewed by Rocked. Some edits (content, styling, etc.) may possibly be required before merging. Once the pull request is approved, you can merge it into the main branch, and your changes will be automatically deployed to the website. 
 
-:::tip[Confused?]
+:::info[Confused?]
 
 Just ask in the staff room in the server! Rocked or anybody else will be happy to help you out. 😊
 

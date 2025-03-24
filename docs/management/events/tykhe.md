@@ -9,7 +9,7 @@ TYKHE is a Discord-based digital card-collecting gacha game. It's a joint ventur
 
 We don't do anything in particular to help run the activity.
 
-:::tip[Bridge Server]
+:::info[Bridge Server]
 
 They have a "Bridge of Unity" hub server. The custom invite is https://discord.gg/tykhe, but sometimes it's unavailable so https://discord.gg/tykhe-bridge-of-unity-793671273485303858 works as well.
 

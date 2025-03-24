@@ -11,7 +11,7 @@ Modmail allows us to provide a consistent approach to moderation cases. While in
 
 All staff-side Modmail interactions are handled in the [Moderation Hub](https://discord.com/channels/915931105977319455/915931106426097716). This server is only accessible to full-time moderators and managers. Ping a head staff in the staff room if you're missing access.
 
-:::tip[Source]
+:::info[Source]
 
 This bot is a self-hosted fork of [Dragory's Modmail bot](https://github.com/Dragory/modmailbot).
 
