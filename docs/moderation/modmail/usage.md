@@ -117,5 +117,46 @@ To send a snippet, use the following command.
 ### Available snippets
 
 - `!!hi` - Hello! How can we help you?
-
-TODO: complete list
+- `!!anyelse` - Is there anything else we can help with?
+- `!!okbye` - Okay! Have a good day/night 👋
+- `!!discuss` - Thanks, we'll discuss it within the team, and we'll get back to you when we make a decision.
+- `!!acceptap` - Hi there, thanks for your patience - we've discussed this and we've decided to repeal your ban. You can rejoin the server at <https://discord.gg/marvel>
+- `!!declineap` - Hi there, thanks for your patience - we've discussed this and we've decided to decline your appeal.
+- `!!declineaf` - Hi, thanks for your patience - unfortunately, we've decided to decline your affiliation request at this time.
+- `!!blocked` - You have been blocked from using Modmail.
+- `!!privacy` - For privacy reasons, we only discuss queries and appeals with the punished user. If they are unable to contact Modmail via the main server, get them to join the Post Office server at <https://discord.gg/ppm8DXZxKp>
+- `!!patience` - Please be patient. All the staff are volunteers who have commitments outside of Discord, therefore, please do not be concerned if we have not replied to your message with urgency. We will reply to you once we have the chance and had the time to discuss anything we need, which could be anywhere between a few minutes and few days. Thank you for your understanding.
+- `!!idpls` - Can you please provide the user's ID? It should look similar to this: `204778476102877187`.
+For details on how to acquire a user's ID, see this Discord support article: <https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID->
+- `!!serious` - Please use Modmail for serious enquiries only. Misuse can result in being blocked.
+- `!!misuse` - Modmail exists for moderation queries regarding the server only. Misuse can result in being blocked.
+- `!!inactive` - Hi, this thread will close in 24 hours due to inactivity if we receive no more messages.
+- `!!middleman` -  Queries and appeals can only be made by the punished user. If they are unable to contact Modmail through the main server, get them to join the Post Office server at <https://discord.gg/ppm8DXZxKp>.
+- `!!invite` - Here is the invite link to the server: <https://www.discord.gg/marvel>
+- `!!source` - Marvel Modmail is a self-hosted version of the following bot: <https://github.com/Dragory/modmailbot>
+- `!!appeal` - __Punishment Queries and Appeals:__ *(e.g. bans, mutes)*
+This is a list of info that you should provide. You don't need to copy-paste this verbatim, but the more of this info that you give, the easier it is for us mods to help.
+- Type of punishment
+- Any details about the circumstances of the punishment
+- Your query about the punishment OR
+- Why you believe your punishment should be repealed.
+-# Note: queries and appeals can *only* be made by the punished user. If they are unable to contact Modmail through the main server, get them to join the Post Office server at <https://discord.gg/ppm8DXZxKp>.
+- `!!affiliation` - # __Server Affiliation Requests:__
+Please provide all info requested. 
+- Firstly, please read https://discord.com/channels/281648235557421056/1109728410894356500/1109730837773172826 and if you believe you meet the criteria, continue.
+- The name of your server
+- A description explaining what your server is about
+- An invite to your server
+- `!!binding` - To bind your Discord account to Marvel Rivals, you need to head to the Rivals server - <https://discord.gg/marvelrivals>
+- `!!notrivals` - Hi, we are a community-run Marvel server. For official Marvel Rivals support, please head to their server - <https://discord.gg/marvelrivals>
+- `!!report` - # __Reports:__
+This is a list of info that you should provide. You don't need to copy-paste this verbatim, but the more of this info that you give, the easier it is for us mods to help.
+- The usernames and IDs* of the user(s) involved.
+- A description of why you are reporting this user(s) and/or situation
+- Message links to the relevant messages and/or screenshots of these messages. If possible, please provide both. 
+- The channel of these messages, if it is in the server. 
+-# IDs are 17/18-digit numbers that are unique to every user, message, server, etc. For details on how to obtain IDs, please see <https://dis.gd/findmyid>
+- `!!resources` - Here's the link to contact Discord's Trust & Safety: <https://dis.gd/contact>.
+- `!!unmuted` - You are now unmuted. Is there anything else we can help with?
+- `!!unofficial` - The Marvel Discord is an fan-made, unofficial community that has no affiliation with Marvel or Disney.
+- `!!warn` - I’ve warned the user. {{anyelse}}
