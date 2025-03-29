@@ -110,7 +110,7 @@ To view the content of a snippet, use this command.
 !snippet <name>
 
 !s hi
-   Hello! How can we help you?
+>> Hello! How can we help you?
 ```
 
 Enclose a snippet with double-curled braces to use it inline within a written message.
