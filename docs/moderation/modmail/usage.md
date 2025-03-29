@@ -104,6 +104,41 @@ A full list can be found with this command.
 !s
 ```
 
+To view the content of a snippet, use this command.
+
+```md
+!snippet <name>
+
+!s hi
+>> Hello! How can we help you?
+```
+
+Enclose a snippet with double-curled braces to use it inline within a written message.
+
+```md
+{{snippetnamehere}}
+
+Okay. {{anyelse}} => Okay. Is there anything else we can help with?
+```
+
+To create a new snippet:
+
+```md
+!s <name> <text>
+```
+
+To edit an existing snippet:
+
+```md
+!es <name> <text>
+```
+
+To delete an existing snippet:
+
+```md
+!ds <name>
+```
+
 To send a snippet, use the following command.
 
 ```md
@@ -114,8 +149,43 @@ To send a snippet, use the following command.
 !!!declineap
 ```
 
-### Available snippets
+### General
 
-- `!!hi` - Hello! How can we help you?
+- `!!hi` - "Hello! How can we help you?"
+- `!!anyelse` - "Is there anything else we can help with?"
+- `!!okbye` - "Okay! Have a good day/night 👋"
+- `!!blocked` - "You have been blocked from using Modmail."
+- `!!patience` - Asks the user to remain patient while the staff team is discussing their matter.
+- `!!serious` - "Please use Modmail for serious enquiries only. Misuse can result in being blocked."
+- `!!misuse` - "Modmail exists for moderation queries regarding the server only. Misuse can result in being blocked."
 
-TODO: complete list
+### Appeals
+  
+- `!!appeal` - Lists all the info that punished users need to provide for an appeal (ban, mute etc)
+- `!!discuss` - "Thanks, we'll discuss it within the team, and we'll get back to you when we make a decision."
+- `!!acceptap` - "Hi there, thanks for your patience - we've discussed this and we've decided to repeal your ban. You can rejoin the server at https://discord.gg/marvel"
+- `!!declineap` - "Hi there, thanks for your patience - we've discussed this and we've decided to decline your appeal."
+- `!!privacy` - "For privacy reasons, we only discuss queries and appeals with the punished user. If they are unable to contact Modmail via the main server, get them to join the Post Office server at https://discord.gg/ppm8DXZxKp"
+- `!!middleman` - "Queries and appeals can only be made by the punished user. If they are unable to contact Modmail through the main server, get them to join the Post Office server at https://discord.gg/ppm8DXZxKp"
+- `!!unmuted` - "You are now unmuted. Is there anything else we can help with?"
+
+### Reports
+
+- `!!report` - Lists all the info which someone reporting another user must provide.
+- `!!idpls` - Asks the user to provide the ID of the person they are reporting and how they can obtain it. 
+- `!!warn` - "I’ve warned the user. Is there anything else we can help with?"
+
+### Affiliations
+
+- `!!affiliation` - Lists all the info a user who wishes to partner with us must provide.  
+- `!!declineaf` - "Hi, thanks for your patience - unfortunately, we've decided to decline your affiliation request at this time."
+
+### Miscellaneous
+
+- `!!binding` - "To bind your Discord account to Marvel Rivals, you need to head to the Rivals server - https://discord.gg/marvelrivals"
+- `!!notrivals` - "Hi, we are a community-run Marvel server. For official Marvel Rivals support, please head to their server - https://discord.gg/marvelrivals"
+- `!!unofficial` - "The Marvel Discord is an fan-made, unofficial community that has no affiliation with Marvel or Disney."
+- `!!invite` - "Here is the invite link to the server: https://www.discord.gg/marvel"
+- `!!inactive` - "Hi, this thread will close in 24 hours due to inactivity if we receive no more messages."
+- `!!source` - "Marvel Modmail is a self-hosted version of the following bot: https://github.com/Dragory/modmailbot"
+- `!!resources` - "Here's the link to contact Discord's Trust & Safety: https://dis.gd/contact"
