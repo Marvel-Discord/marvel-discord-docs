@@ -118,8 +118,7 @@ Enclose a snippet with double-curled braces to use it inline within a written me
 ```md
 {{snippetnamehere}}
 
-!r Okay. {{anyelse}}
-   Okay. Is there anything else we can help with?
+Okay. {{anyelse}} => Okay. Is there anything else we can help with?
 ```
 
 To create a new snippet:
