@@ -30,7 +30,7 @@ News message here
 
 This channel is for news relating to Marvel Comics. 
 
-[@Zelma](https://discord.com/users/1098223523668951111) sends the weekly comics automatically.
+[@Zelma](https://discord.com/users/1098223523668951111) sends the weekly comics automatically. See [Weekly Comics](../../bots/weekly-comics) for more info.
 
 - **Do share**
   - Monthly comic solicits
