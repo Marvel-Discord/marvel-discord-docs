@@ -8,6 +8,10 @@ We use this bot to host giveaways in the server.
 
 https://giveawaybot.party/
 
+| Prefix | Website                    |
+| ------ | -------------------------- |
+| `g!`   | https://giveawaybot.party/ |
+
 ```
 /gcreate
 ```

@@ -6,6 +6,10 @@ sidebar_label: Jocasta
 
 Jocasta is a utility bot, custom-built for the Marvel Discord server by Rocked03.
 
+| Prefix |
+| ------ |
+| `/`    |
+
 ## Spoiler Threads
 
 See [#non-marvel-spoilers](../server-layout/channels/spoiler-channels#non-marvel-spoilers).
