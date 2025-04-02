@@ -18,3 +18,5 @@ To see moderation information, see [the Moderation Carl-bot page](../../moderati
 ### Custom Commands
 
 Set up on the website dashboard. These are custom-set commands that can be triggered with the `?` prefix. 
+
+These contain a large number of our comic recommendations. 
