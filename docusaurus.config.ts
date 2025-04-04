@@ -57,7 +57,6 @@ const config: Config = {
 	],
 
 	themeConfig: {
-		// Replace with your project's social card
 		image: "img/icon-red-filled-square.svg",
 		navbar: {
 			title: "Marvel Discord",
