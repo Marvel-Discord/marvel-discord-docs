@@ -1,13 +1,16 @@
 ---
 sidebar_position: 0
 sidebar_label: "#rules"
-title: "#rules"
 discord-channel-id: 1109693299297632328
 ---
 
 # #rules
 
 This is the rules channel. All the server rules are explained in detail here.
+
+---
+
+![Rules header](../../../static/img/discord-pages/Rules.png)
 
 ---
 
