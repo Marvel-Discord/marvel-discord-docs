@@ -12,8 +12,6 @@ const handleExclamationLinksPlugin: Plugin<[], Root> = () => {
 				// Ensure current is text and next is a link
 				if (current.type === "text" && next.type === "link") {
 					if (current.value.endsWith("!")) {
-						console.log("Found exclamation link:", next.url);
-
 						// Remove the trailing "!" from the text node
 						current.value = current.value.slice(0, -1);
 
