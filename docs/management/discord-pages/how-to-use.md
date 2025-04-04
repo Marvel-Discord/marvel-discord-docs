@@ -30,6 +30,20 @@ There's a few exceptions to this:
 | `<#channel id>`       | `#[channel name](channel id)` | `#[rules](1109693299297632328)`       |
 | `<url without embed>` | `!url`                        | `!https://marvelcord.com`             |
 
+Each individual message is separated by a `---` line. This means that you can have multiple messages in a single file, and they will be sent as separate messages in the channel.
+
+```markdown
+Message 1
+
+---
+
+Message 2
+
+---
+
+Message 3
+```
+
 ### Syncing on Discord
 
 TODO
