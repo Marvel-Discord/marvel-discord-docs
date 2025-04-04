@@ -22,3 +22,7 @@ This bot is a self-hosted fork of [Dragory's Modmail bot](https://github.com/Dra
 Please be polite and professional. Modmail is not a place to bring your own opinionated arguments, this serves more as a customer service-like line. Our job here is to communicate clear information and decisions.
 
 Do not share anything from Modmail publicly, for obvious reasons. This includes sharing any Modmail log link (and also please don't send any log links in other threads either, so the links don't get recorded in the message logs).
+
+## If Modmail is down:
+
+Contact Rocked03.

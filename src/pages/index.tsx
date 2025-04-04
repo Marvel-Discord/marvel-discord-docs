@@ -19,7 +19,7 @@ function HomepageHeader() {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div
           className={styles.buttons}
-          style={{ display: "flex", gap: "1rem" }}
+          style={{ display: "flex", gap: "1rem", flexWrap: "wrap" }}
         >
           <Link
             className="button button--secondary button--lg"
