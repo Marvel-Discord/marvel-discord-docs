@@ -2,7 +2,7 @@ import type { Plugin } from "unified";
 import type { Root, Paragraph } from "mdast";
 import { visit } from "unist-util-visit";
 
-const handleMentionLinksPlugin: Plugin<[], Root> = () => {
+export const handleMentionLinksPlugin: Plugin<[], Root> = () => {
 	const validPrefixes = ["#", "@", "@&"];
 
 	return (tree) => {
@@ -36,15 +36,6 @@ const handleMentionLinksPlugin: Plugin<[], Root> = () => {
 									},
 								};
 
-								// node.children[i + 1] = {
-								// 	type: "text",
-								// 	value: `${prefix}${linkName}`,
-								// };
-
-								// node.children[i + 1].data = {
-								// 	hProperties: { class: "mention" },
-								// };
-
 								break;
 							}
 						}
@@ -54,5 +45,3 @@ const handleMentionLinksPlugin: Plugin<[], Root> = () => {
 		});
 	};
 };
-
-export default handleMentionLinksPlugin;

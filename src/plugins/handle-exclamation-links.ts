@@ -2,7 +2,7 @@ import type { Plugin } from "unified";
 import type { Root, Paragraph, Text, Link } from "mdast";
 import { visit } from "unist-util-visit";
 
-const handleExclamationLinksPlugin: Plugin<[], Root> = () => {
+export const handleExclamationLinksPlugin: Plugin<[], Root> = () => {
 	return (tree) => {
 		visit(tree, "paragraph", (node: Paragraph) => {
 			for (let i = 0; i < node.children.length - 1; i++) {
@@ -25,5 +25,3 @@ const handleExclamationLinksPlugin: Plugin<[], Root> = () => {
 		});
 	};
 };
-
-export default handleExclamationLinksPlugin;

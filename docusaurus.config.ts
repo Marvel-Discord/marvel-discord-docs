@@ -1,8 +1,8 @@
 import { themes as prismThemes } from "prism-react-renderer";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
-import handleExclamationLinksPlugin from "./src/plugins/handle-exclamation-links";
-import handleMentionLinksPlugin from "./src/plugins/handle-mention-links";
+import { handleExclamationLinksPlugin } from "./src/plugins/handle-exclamation-links";
+import { handleMentionLinksPlugin } from "./src/plugins/handle-mention-links";
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
