@@ -1,6 +1,8 @@
 import { themes as prismThemes } from "prism-react-renderer";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
+import { handleExclamationLinksPlugin } from "./src/plugins/handle-exclamation-links";
+import { handleMentionLinksPlugin } from "./src/plugins/handle-mention-links";
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -36,14 +38,16 @@ const config: Config = {
 			"classic",
 			{
 				docs: {
-					sidebarPath: "./sidebars.ts",
-					// Please change this to your repo.
-					// Remove this to remove the "edit this page" links.
-					editUrl: "https://github.com/Rocked03/marvel-discord-docs/blob/main/",
-					routeBasePath: "/",
 					breadcrumbs: true,
+					editUrl: "https://github.com/Rocked03/marvel-discord-docs/blob/main/",
+					remarkPlugins: [
+						handleExclamationLinksPlugin,
+						handleMentionLinksPlugin,
+					],
+					routeBasePath: "/",
 					showLastUpdateAuthor: true,
 					showLastUpdateTime: true,
+					sidebarPath: "./sidebars.ts",
 				},
 				theme: {
 					customCss: "./src/css/custom.css",
@@ -53,7 +57,6 @@ const config: Config = {
 	],
 
 	themeConfig: {
-		// Replace with your project's social card
 		image: "img/icon-red-filled-square.svg",
 		navbar: {
 			title: "Marvel Discord",
