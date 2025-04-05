@@ -1,6 +1,6 @@
 {
   "label": "Events & Activities",
-  "position": 4,
+  "position": 5,
   "link": {
     "type": "generated-index",
     "description": "Events and activities held in the server."
