@@ -23,12 +23,13 @@ The entire content of these pages will be used as the content of the channel. Th
 
 There's a few exceptions to this:
 
-| On Discord            | In the `.md` file             | Example                               |
-| --------------------- | ----------------------------- | ------------------------------------- |
-| `<@user id>`          | `@[username](user id)`        | `@[Rocked03](204778476102877187)`     |
-| `<@&role id>`         | `@[role name](role id)`       | `@[Server Staff](281649289397141505)` |
-| `<#channel id>`       | `#[channel name](channel id)` | `#[rules](1109693299297632328)`       |
-| `<url without embed>` | `!url`                        | `!https://marvelcord.com`             |
+| On Discord            | In the `.md` file             | Example                                   |
+| --------------------- | ----------------------------- | ----------------------------------------- |
+| `<@user id>`          | `@[username](user id)`        | `@[Rocked03](204778476102877187)`         |
+| `<@&role id>`         | `@[role name](role id)`       | `@[Server Staff](281649289397141505)`     |
+| `<#channel id>`       | `#[channel name](channel id)` | `#[rules](1109693299297632328)`           |
+| `<url without embed>` | `!url`                        | `!https://marvelcord.com`                 |
+| `image url`           | `![alt text](image url)`      | `![image](https://example.com/image.png)` |
 
 Each individual message is separated by a `---` line. This means that you can have multiple messages in a single file, and they will be sent as separate messages in the channel.
 
@@ -44,6 +45,22 @@ Message 2
 Message 3
 ```
 
+:::danger[Warning]
+
+The bot can only send messages up to 2000 characters long. If a message is longer than this, it will fail. 
+
+:::
+
 ### Syncing on Discord
 
-TODO
+To sync the current channel, use the command:
+
+```
+/sync-channel-doc
+```
+
+To sync all channels with a `.md` file, use the command:
+
+```
+/sync-channel-doc all: true
+```

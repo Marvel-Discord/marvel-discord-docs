@@ -28,6 +28,9 @@ This is the rules channel. All the server rules are explained in detail here.
 ### 4. Language
 * We do not allow *any* slurs in this server. Profanity is allowed, as long as it is not used excessively or to insult anybody. Please keep in mind that this is a PG-13 server.
 * As we are an English-speaking server and can only provide Moderation support in English, we do not allow discussion in foreign languages. 
+
+---
+
 ### 5. Advertisements
 * Advertising is not allowed. This includes:
  * Server invites
@@ -36,6 +39,9 @@ This is the rules channel. All the server rules are explained in detail here.
 ### 6. Roleplay
 * Roleplay is disruptive to conversation, therefore not allowed. Please do not invoke nor incite roleplay.
 * Impersonation of people (real & fictional), characters, users, etc is prohibited.
+
+---
+
 ## 2. Use appropriate channels
 * We provide numerous channels for various topics. Please stick to these topics when you are chatting in these channels, and move to a more appropriate channel if you do not.
 ### 1. Spoiler Rules
@@ -59,6 +65,9 @@ We provide numerous spaces to discuss spoilers for recent content. We expect all
 ### 3. Respectfulness
 * Be respectful of everybody, even if they do not share the same opinion as you.
 * This applies both to people within the server, and also when discussing other people outside of the server. 
+
+---
+
 ## 4. Don’t be a rules lawyer
 * These rules are an **outline** of what we expect in our server. This server’s moderators reserve the right to make decisions based on their own judgement, even if something is not explicitly in breach of these rules.
 * We ask that you do not “minimod” - moderators enforce the rules such that you do not need to yourself. 
