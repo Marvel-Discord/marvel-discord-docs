@@ -11,7 +11,7 @@ These are roles specifically used for pinging members.
 
 The @everyone and @here pings are in-built pings in Discord. We use them infrequently. 
 
-:::tip[Why we don't use them often]
+:::info[Why we don't use them often]
 
 @everyone and @here are both very powerful pings that can reach the entire server. When we use them, we want to be able to reach as many people as we can. However, users can opt of these pings by disabling them in their notification settings, which people regularly do when they are overwhelmed or disinterested in the pings. In order to avoid a "boy who cried wolf" situation, we reserve these pings for only the most important announcements, giving us a stronger guarantee that people won't have muted them.
 
