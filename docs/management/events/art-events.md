@@ -24,7 +24,7 @@ Make sure to prepare all the prompts prior to the event starting.
 
 ## Setting it up
 
-We have existing [#art-event](https://discord.com/channels/281648235557421056/1204608353859276871) forum channels that are made to be used for these events. This is what they need to be set up:
+We have existing #[art-event](1204608353859276871) forum channels that are made to be used for these events. This is what they need to be set up:
 
 - Rename the channel to match the event, e.g. `#drawtober`, `#valentines-art-event`
 - Create a new post tag with the event's name

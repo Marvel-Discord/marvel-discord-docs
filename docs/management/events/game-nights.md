@@ -7,6 +7,8 @@ sidebar_label: Game Nights
 
 We occasionally host game nights. This is a very broad category for any game night hosted in the server. 
 
+Game Nights are typically hosted in #[murderworld](1207619588565499924).
+
 ## A few tips
 
 ### Timezones

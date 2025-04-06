@@ -11,7 +11,7 @@ The details on this page refer to the Bookclub hosted from 2024-present. Not det
 For future docs contributors: if there's a new iteration of the Bookclub, turn this page into a category (folder) and have individual pages for each iteration.
 :::
 
-We read comics in Bookclub! This is an activity that is hosted periodically, every couple weeks to couple months.
+We read comics in Bookclub, hosted in #[bookclub](1110968611767582730)! This is an activity that is hosted periodically, every couple weeks to couple months.
 
 This Bookclub is centred around the concept of "Editions" - thematic topics that the chosen comic is related to. These editions are typically a recently-released film, show, game, comic event.
 
