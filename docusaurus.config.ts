@@ -58,6 +58,10 @@ const config: Config = {
 
 	themeConfig: {
 		image: "img/icon-red-filled-square.svg",
+		colorMode: {
+			defaultMode: "light",
+			respectPrefersColorScheme: true,
+		},
 		navbar: {
 			title: "Marvel Discord",
 			logo: {
