@@ -19,6 +19,13 @@
   --ifm-color-primary-lighter-rgb: 243, 124, 128;
 
   --ifm-h1-font-size: 3rem;
+
+  --ifm-font-family-base: "Mona Sans", system-ui, -apple-system, Segoe UI,
+    Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont,
+    "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+
+  letter-spacing: 0.015rem;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -35,6 +42,22 @@
   --ifm-color-primary-lighter-rgb: 243, 162, 164;
 }
 
+.navbar__title {
+  font-size: 1.2rem;
+  font-weight: 900;
+  font-stretch: expanded;
+}
+
+header {
+  font-stretch: expanded;
+}
+
+em,
+.lastUpdated_Jt0n {
+  font-style: normal !important;
+  font-variation-settings: "slnt" -10;
+}
+
 .mention {
   color: var(--ifm-color-primary);
   font-weight: bold;
@@ -43,4 +66,15 @@
   padding: 0.1rem 0.3rem;
   border-radius: 0.2rem;
   pointer-events: none;
+}
+
+@layer fonts {
+  @font-face {
+    font-family: "Mona Sans";
+    src: url("../fonts/mona-sans.woff2") format("woff2 supports variations"),
+      url("../fonts/mona-sans.woff2") format("woff2 variations"),
+      url("../fonts/mona-sans.ttf") format("truetype");
+    font-weight: 200 900;
+    font-stretch: 75% 125%;
+  }
 }
