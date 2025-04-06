@@ -48,7 +48,7 @@
   font-stretch: expanded;
 }
 
-header {
+header > h1 {
   font-stretch: expanded;
 }
 

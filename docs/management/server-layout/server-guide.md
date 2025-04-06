@@ -5,7 +5,7 @@ sidebar_label: Server Guide
 
 # Server Guide
 
-TODO
+See [Discord Pages](../discord-pages) for the actual content of these pages.
 
 ## Server Info
 
@@ -15,18 +15,18 @@ TODO
 
 TODO
 
-# Contact Staff
+## Contact Staff
 
 TODO
 
-# Ban Appeals
+## Ban Appeals
 
 TODO
 
-# Activities & Events
+## Activities & Events
 
 TODO
 
-# Spoiler Channel Archive Map
+## Spoiler Channel Archive Map
 
-TODO - see [Spoiler Channels](./channels/spoiler-channels)
+TODO - see [Spoiler Channels](./channels/archived-channels#spoilers-archive)
