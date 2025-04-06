@@ -2,9 +2,31 @@ import type { Plugin } from "unified";
 import type { Root, Paragraph } from "mdast";
 import { visit } from "unist-util-visit";
 
-export const handleMentionLinksPlugin: Plugin<[], Root> = () => {
-	const validPrefixes = ["#", "@", "@&"];
+interface Prefix {
+	prefix: string;
+	viewedAs: string;
+	url: (prefix: Prefix, linkName: string, linkUrl: string) => string;
+}
 
+export const handleMentionLinksPlugin: Plugin<[], Root> = () => {
+	const validPrefixes: Prefix[] = [
+		{
+			prefix: "#",
+			viewedAs: "#",
+			url: (_p, _name, url) =>
+				`https://discord.com/channels/281648235557421056/${url}`,
+		},
+		{
+			prefix: "@",
+			viewedAs: "@",
+			url: (_p, _name, url) => `https://discord.com/users/${url}`,
+		},
+		{
+			prefix: "@&",
+			viewedAs: "@",
+			url: () => "#",
+		},
+	];
 	return (tree) => {
 		visit(tree, "paragraph", (node: Paragraph) => {
 			for (let i = 0; i < node.children.length - 1; i++) {
@@ -16,19 +38,20 @@ export const handleMentionLinksPlugin: Plugin<[], Root> = () => {
 
 					if (next.children[0]?.type === "text") {
 						const linkName = next.children[0].value;
+						const linkUrl = next.url;
 
 						for (const prefix of validPrefixes) {
-							if (linkName && textValue.endsWith(prefix)) {
-								current.value = textValue.slice(0, -prefix.length);
+							if (linkName && textValue.endsWith(prefix.prefix)) {
+								current.value = textValue.slice(0, -prefix.prefix.length);
 
 								node.children[i + 1] = {
 									type: "link",
 									title: null,
-									url: "#",
+									url: prefix.url(prefix, linkName, linkUrl),
 									children: [
 										{
 											type: "text",
-											value: `${prefix}${linkName}`,
+											value: `${prefix.viewedAs}${linkName}`,
 										},
 									],
 									data: {

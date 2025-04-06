@@ -65,7 +65,7 @@ em,
   background-color: rgba(var(--ifm-color-primary-lighter-rgb), 0.1);
   padding: 0.1rem 0.3rem;
   border-radius: 0.2rem;
-  pointer-events: none;
+  /* pointer-events: none; */
 }
 
 @layer fonts {
