@@ -106,7 +106,7 @@ This is kicked off with another announcement message which include these prompts
 
 ### Wrapping up
 
-There's not too much to wrapping up an edition. Just make sure to unpin the messages and update the channel name and description.
+There's not too much to wrapping up an edition. Just make sure to unpin the discussion message and update the channel name and description.
 
 It's always good to thank everyone for participating in a short message and if it's planned, tease the next edition! You can also use the in-built polls feature to let people rank the book.
 
@@ -117,3 +117,16 @@ It's always good to thank everyone for participating in a short message and if i
 ```
 
 If you're hosting a raffle, you can collect entries to the raffle by asking people to react to a message. When drawing, [randomly select a name](https://wheelofnames.com/) from the list of reactions and void any people who didn't actually get involved in the discussion (easiest to just keep rolling until you get a valid user).
+
+## Previous Editions
+- 07/24 [Deadpool & Wolverine](https://discord.com/channels/281648235557421056/1110968611767582730/1264873689749655592) — *Uncanny X-Force (2010)* #1-7 by Rick Remender
+- 09/24 [Agatha All Along](https://discord.com/channels/281648235557421056/1110968611767582730/1286560138907357185) — *Scarlet Witch (2016)* #1-5 by James Robinson
+- 10/24 [Venom: The Last Dance](https://discord.com/channels/281648235557421056/1110968611767582730/1299544836243853392) — *Venom (2018)* #1-6 by Donny Cates
+- 11/24 [Marvel Rivals](https://discord.com/channels/281648235557421056/1110968611767582730/1307150975915786281) — *Galacta: Daughter of Galactus (2010)* #1 by Adam Warren
+- 12/24 [Kraven the Hunter](https://discord.com/channels/281648235557421056/1110968611767582730/1311857059196571719) — *Kraven's Last Hunt (1987)* by J.M. DeMatteis
+- 12/24 [What If...?](https://discord.com/channels/281648235557421056/1110968611767582730/1316938746670616690) — *What If...? Civil War (2005)* TPB by Brubaker, Pak, Hine, Yost, Parker, and Tobin
+- 01/25 [Best of 2024](https://discord.com/channels/281648235557421056/1110968611767582730/1327129806839484486) — *Ultimate Spider-Man (2024)* #1-6 by Jonathan Hickman
+- 01/25 [Your Friendly Neightborhood Spider-Man](https://discord.com/channels/281648235557421056/1110968611767582730/1335040138924916777) — *Amazing Spider-Man (1963)* #1-6 by Stan Lee and Steve Ditko
+- 02/25 [Captain America: Brave New World](https://discord.com/channels/281648235557421056/1110968611767582730/1340198486620246110) — *All-New Captain America (2015)* #1-6 by Rick Remender
+- 03/25 [Daredevil: Born Again](https://discord.com/channels/281648235557421056/1110968611767582730/1347679535478472787) — *Daredevil (2019)* #1-5 by Chip Zdarsky
+- 04/25 [One World Under Doom Vol. 1](https://discord.com/channels/281648235557421056/1110968611767582730/1357907342712242441) — *Unbeatable Squirrel Girl (2015)* #1-8 by Ryan North
