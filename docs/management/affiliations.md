@@ -5,7 +5,7 @@ sidebar_label: Affiliations
 
 # Affiliations
 
-We occasionally affiliate with other servers we think are cool! These servers get listed in [#server-affiliates](https://discord.com/channels/281648235557421056/1109728410894356500).
+We occasionally affiliate with other servers we think are cool! These servers get listed in #[server-affiliates](1109728410894356500).
 
 ## Requirements
 
@@ -29,7 +29,7 @@ For info on how to use Modmail, see the [Modmail](../moderation/modmail/usage.md
 
 :::
 
-Successful affiliate representatives get the *@Server Partner* role. This gives them permissions to post their own server information in [#server-affiliates](https://discord.com/channels/281648235557421056/1109728410894356500).
+Successful affiliate representatives get the @[Server Partner](0) role. This gives them permissions to post their own server information in #[server-affiliates](1109728410894356500).
 
 Conversely, we provide our own server information to the affiliates for them to post into their own server. Sometimes, this advert is posted by us rather than them. 
 

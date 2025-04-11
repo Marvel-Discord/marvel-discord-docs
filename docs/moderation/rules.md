@@ -5,6 +5,6 @@ sidebar_label: Server Rules
 
 # Server Rules
 
-The server rules are detailed in [#rules](https://discord.com/channels/281648235557421056/1109693299297632328).
+The server rules are detailed in #[rules](1109693299297632328).
 
 This channel is synced to [this docs page](../management/discord-pages/rules).
