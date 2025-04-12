@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 sidebar_label: TYKHE
 ---
 
@@ -20,14 +20,14 @@ All details about TYKHE can be found in this server.
 ## Channels
 
 We have multiple channels for TYKHE in the server, all in the TYKHE category:
-- [#tykhe-announcements](https://discord.com/channels/281648235557421056/1109726177964331148) is a feed of the announcements from the Bridge server.
-- [#tykhe-shop](https://discord.com/channels/281648235557421056/1109726240803405894) is a feed of the shop updates from the Bridge server.
-- [#tykhe-rolling](https://discord.com/channels/281648235557421056/1109726292208779385) and [#tykhe-rolling-2](https://discord.com/channels/281648235557421056/1110217807116906507) are for rolling for cards.
-  - [#tykhe-roll-nft](https://discord.com/channels/281648235557421056/1111142854186762271) is reserved for people not interested in trading.
-  - [#tykhe-staff](https://discord.com/channels/281648235557421056/1109860675494355044) is reserved for server staff.
-- [#tykhe-commands](https://discord.com/channels/281648235557421056/1109727103722729573) and [#tykhe-commands-2](https://discord.com/channels/281648235557421056/1110217858446790656) are for using miscellaneous commands.
-- [#tykhe-trade-board](https://discord.com/channels/281648235557421056/1111141979376582729) is for users to share their card trade offers.
-- [#tykhe-discussion](https://discord.com/channels/281648235557421056/1109727127051440148) is for general activity discussion.
+- #[tykhe-announcements](1109726177964331148) is a feed of the announcements from the Bridge server.
+- #[tykhe-shop](1109726240803405894) is a feed of the shop updates from the Bridge server.
+- #[tykhe-rolling](1109726292208779385) and #[tykhe-rolling-2](1110217807116906507) are for rolling for cards.
+  - #[tykhe-roll-nft](1111142854186762271) is reserved for people not interested in trading.
+  - #[tykhe-staff](1109860675494355044) is reserved for server staff.
+- #[tykhe-commands](1109727103722729573) and #[tykhe-commands-2](1110217858446790656) are for using miscellaneous commands.
+- #[tykhe-trade-board](1111141979376582729) is for users to share their card trade offers.
+- #[tykhe-discussion](1109727127051440148) is for general activity discussion.
 
 ## Commands
 

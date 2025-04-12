@@ -14,22 +14,22 @@ These rules set the guidelines on how the spoiler channels are set up and how us
 Can be found in the `?spoilers` command.
 
 ### If the content is Marvel...
-- ... and is __unreleased__, use [#future-screen-spoilers](https://discord.com/channels/281648235557421056/1109731729385721926)
-- ... and is a __comic__ that is less than __1 week old__, use [#comic-spoilers](https://discord.com/channels/281648235557421056/1109731683177078867) only
+- ... and is __unreleased__, use #[future-screen-spoilers](1109731729385721926)
+- ... and is a __comic__ that is less than __1 week old__, use #[comic-spoilers](1109731683177078867) only
 - ... and is a __film or show__ that has its own dedicated channel, use that channel only
 ### If the content is non-Marvel...
-- ... and is less than __1.5 months old__, use [#non-marvel-spoilers](https://discord.com/channels/281648235557421056/1109733536832946196) only
+- ... and is less than __1.5 months old__, use #[non-marvel-spoilers](1109733536832946196) only
 Otherwise, if the content doesn't meet this criteria, you're free to discuss in general chat, however, *please be mindful of users who haven't seen the content*, and use spoiler tags appropriately.
 
-## [#comic-spoilers](https://discord.com/channels/281648235557421056/1109731683177078867)
+## #[comic-spoilers](1109731683177078867)
 
 Discussion of comic issues that are less than 1 week old. This is also used for comic leaks. News about future comics are also encouraged to be discussed here, but the rules are less strict about keeping them solely in here. 
 
-## [#future-screen-spoilers](https://discord.com/channels/281648235557421056/1109731729385721926)
+## #[future-screen-spoilers](1109731729385721926)
 
 Discussion of Marvel films and shows that are upcoming in the later future. Before a topical spoiler channel is opened for a film or show (typically within a week of release), discussion of (what typically are) leaks and rumours must be kept in this channel.
 
-## [#non-marvel-spoilers](https://discord.com/channels/281648235557421056/1109733536832946196)
+## #[non-marvel-spoilers](1109733536832946196)
 
 This is a forum channel for discussing non-Marvel films and shows. Threads can be created in this channel for any film or show that is less than 1.5 months old and have a lot of active discussion. 
 
@@ -81,7 +81,7 @@ Spoiler channels for theatrical releases are closed **roughly around one month**
    - These questions can be edited in `Settings > Onboarding > Questions`
    - See [Onboarding](../../onboarding) for more details
 5. Add link to the pinned message into [#resources-spoiler-archive](../server-guide). This can only be done by the user who sent the existing message.
-6. Post announcement in [#announcements](https://discord.com/channels/281648235557421056/1110214786223968346) stating that it's open!
+6. Post announcement in #[announcements](1110214786223968346) stating that it's open!
    
 ### Closing a spoiler channel
 1. Rename it to `#spoilers-whatever`
@@ -91,7 +91,7 @@ Spoiler channels for theatrical releases are closed **roughly around one month**
 3. Post in the channel, "archived!" (or similar).
 4. Remove it from the selectable options in #Channels & Roles
    - See [above](#opening-a-spoiler-channel) for details.
-5. Post announcement in [#announcements](https://discord.com/channels/281648235557421056/1110214786223968346) stating that it's closed.
+5. Post announcement in #[announcements](1110214786223968346) stating that it's closed.
    - If it's a film that hasn't hit digital yet, it's good to advise people to be mindful of spoilers for others and to use spoiler tags.
 
 ### Spoiler Channel Archive

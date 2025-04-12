@@ -11,10 +11,10 @@ TODO
 
 TODO
 
-## [#news-archive](https://discord.com/channels/281648235557421056/1111300609400918219) & [#d23-updates](https://discord.com/channels/281648235557421056/1111300609400918219)
+## #[news-archive](1111300609400918219) & #[d23-updates](1111300609400918219)
 
 TODO
 
-## [#blurple](https://discord.com/channels/281648235557421056/1237400552577695744)
+## #[blurple](1237400552577695744)
 
 TODO
