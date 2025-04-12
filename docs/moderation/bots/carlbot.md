@@ -25,7 +25,8 @@ Moderation actions, such as bans, mutes, and warns are all handled through this 
 - `<user>` can be a mention or user ID.
 - Reason is optional but should always be provided.
 - The `?clearwarn` command is used to remove a specific warning from a user but it removes all past warnings if no case ID is specified.
-- Please note that the case ID is different than the message ID and can be obtained from https://discord.com/channels/281648235557421056/1109011915402903612
+- Please note that the case ID is different than the message ID. See below for what the case ID is.
+  - ![Case ID](../../../static/img/bots/2025-04-12-13-02-14_Discord_XMAD753E4L.png)
 
 ### Mute and Unmute
 
