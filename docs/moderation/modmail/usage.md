@@ -174,6 +174,7 @@ To send a snippet, use the following command.
 - `!!report` - Lists all the info which someone reporting another user must provide.
 - `!!idpls` - Asks the user to provide the ID of the person they are reporting and how they can obtain it. 
 - `!!warn` - "I’ve warned the user. Is there anything else we can help with?"
+- `!!care` - "The user has been taken care of. Is there anything else we can help with?"
 
 ### Affiliations
 
