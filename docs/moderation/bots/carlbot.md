@@ -99,7 +99,7 @@ This command is used to lock a particular channel.
 ?unlockdown
 ```
 
-### Newtopic
+### New Topic
 
 ```md
 !newtopic
