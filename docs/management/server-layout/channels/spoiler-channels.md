@@ -46,7 +46,7 @@ We have commands set up with the Jocasta bot that hooks into the TMDB API to cre
 /spoiler-thread tv <title>
 ```
 
-These commands should be used within the "[Request Spoiler Threads!](https://discord.com/channels/281648235557421056/1109734588378525748)" thread.
+These commands should be used within the #[Request Spoiler Threads!](1109734588378525748) thread.
 
 The bot will find the first result for the provided title, then open an interactive modal the title, description, and image URL it found. It's correct the large majority of the time, but if it isn't, you can edit it before saving it. Once saved, the bot creates the thread and links it in the channel. 
 
@@ -77,7 +77,7 @@ Spoiler channels for theatrical releases are closed **roughly around one month**
    - The logo is preferably a high-resolution image with a transparent background. Also not a big deal, but it's nice to have.
      - Ask Rocked if you need help with this.
    - Pin the logo message. (This is why the logo is a separate message, so it can be pinned without the borders.)
-4. Add the channel as a selectable option in #Channels & Roles
+4. Add the channel as a selectable option in #[Channels & Roles](0)
    - These questions can be edited in `Settings > Onboarding > Questions`
    - See [Onboarding](../../onboarding) for more details
 5. Add link to the pinned message into [#resources-spoiler-archive](../server-guide). This can only be done by the user who sent the existing message.
@@ -89,7 +89,7 @@ Spoiler channels for theatrical releases are closed **roughly around one month**
 2. Move it to `Spoilers Archive` category
    - Sync permissions with the category.
 3. Post in the channel, "archived!" (or similar).
-4. Remove it from the selectable options in #Channels & Roles
+4. Remove it from the selectable options in #[Channels & Roles](0)
    - See [above](#opening-a-spoiler-channel) for details.
 5. Post announcement in #[announcements](1110214786223968346) stating that it's closed.
    - If it's a film that hasn't hit digital yet, it's good to advise people to be mindful of spoilers for others and to use spoiler tags.
