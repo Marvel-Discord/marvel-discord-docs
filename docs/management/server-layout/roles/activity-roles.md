@@ -30,7 +30,7 @@ Level roles are managed by the MEE6 bot, which tracks the message activity of us
 
 ### True Believer
 
-True Believer is a special role that is given to longstanding and exemplary members of the community. Induction into the True Believers group is at the discretion of staff and is not something that can be applied for.
+True Believer is a special role that is given to longstanding and exemplary members of the community. Induction into the True Believers group is at the discretion of staff and is not something that can be applied for. Distribution of this role is currently on pause until further notice.
 
 ### Mightiest Heroes
 
