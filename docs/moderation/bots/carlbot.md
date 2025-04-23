@@ -105,5 +105,21 @@ This command is used to lock a particular channel.
 !newtopic
 ```
 
-- This command is used to ask people to move on and start a new topic.
-- Note that this is just an MEE6 command with a pre-defined snippet.
+This command is used to ask people to move on and start a new topic. Note that this is just an MEE6 command with a pre-defined snippet.
+
+> ### Topic Change
+> 
+> This is when you start a new topic. Continue to chat about the previous topic, and you risk being muted.
+
+### Mod Policy
+
+```md
+?modpolicy
+```
+
+This is a Carl-bot snippet that details the policy around the sharing of moderation details in the server.
+
+> As a policy, we do not discuss moderation actions in public channels. If you have a concern regarding a moderation action that has directly affected you, we encourage you to open a @[Marvel Modmail](0) ticket. We do not comment on any actions regarding other users.
+> 
+> Please do not continue to discuss moderation actions in public channels.
+  

@@ -54,3 +54,4 @@ This channel contains a list linking to our archive of all our spoiler channel d
 - **Your Friendly Neighborhood Spider-Man S1**: https://discord.com/channels/281648235557421056/1109731838290829322/1333223764535541914
 - **Captain America: Brave New World**: https://discord.com/channels/281648235557421056/1109731773815992361/1338956043279142923
 - **Daredevil: Born Again S1**: https://discord.com/channels/281648235557421056/1109731769269366834/1345385410636939274
+- **Thunderbolts\***: https://discord.com/channels/281648235557421056/1109731773815992361/1364375448108273675

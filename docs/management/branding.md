@@ -15,7 +15,7 @@ The server's graphics are mostly all designed by Rocked03, using a mix of [Figma
 
 ## Icon
 
-Our primary icon the classic Discord chat bubble icon with the M from the Marvel logo in the centre.
+Our primary icon is the classic Discord chat bubble icon with the M from the Marvel logo in the centre.
 
 When using the icon, it should be positioned such that the square of the chat bubble is centred, with the stem at the bottom extending further. 
 
