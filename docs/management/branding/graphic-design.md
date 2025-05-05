@@ -1,6 +1,6 @@
 ---
-sidebar_position: 7
-sidebar_label: Branding
+sidebar_position: 0
+sidebar_label: Graphic Design
 ---
 
 # Server Branding
@@ -19,7 +19,7 @@ Our primary icon is the classic Discord chat bubble icon with the M from the Mar
 
 When using the icon, it should be positioned such that the square of the chat bubble is centred, with the stem at the bottom extending further. 
 
-![Icon](<../../static/img/branding/Icon red filled square.svg>)
+![Icon](<../../../static/img/branding/Icon red filled square.svg>)
 
 ## Logos
 
@@ -29,7 +29,7 @@ Check out all our logos at https://marvelcord.com/gallery/logo.
 
 Our standard logo is our icon in white and black on a red background (same colour as the Marvel logo). Sometimes the background is a red-tinted comic collage (although this graphic requires updating, it's quite old).
 
-![Main logo](<../../static/img/branding/Logo 2000x2000.svg>)
+![Main logo](<../../../static/img/branding/Logo 2000x2000.svg>)
 
 However, we have many logos that are thematically styled to match topical Marvel content, such as movies, shows, games, and comics. These all use this base logo as a starting point.
 
