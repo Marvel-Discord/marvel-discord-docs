@@ -37,6 +37,8 @@ Additionally, Celestials are able to use the command below to access full modera
 
 ## Management Domains
 
+Server management is divided into domains, which are areas of responsibility. Each domain has a lead and a shadow, who are both responsible in understanding, maintaining, and managing the domain. They are your go-to people for any questions or issues!
+
 ### Administrative
 
 | Domain            | Lead                                                             | Shadow                                |
