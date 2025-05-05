@@ -38,7 +38,7 @@ Select an appropriate number of issues. This will typically be somewhere between
 ### Graphics
 
 :::info[Figma Link]
-The (private) Figma design file can be found [here](https://www.figma.com/design/OCnVWcbeylHqSI4FVUxgxn/Bookclub). Please contact Rocked03 for access. You need to download a font to use this file - [Mona Sans](https://fonts.google.com/specimen/Mona+Sans).
+The (private) Figma design file can be found [here](https://www.figma.com/design/OCnVWcbeylHqSI4FVUxgxn/Bookclub). Please contact Rocked03 for access. You need to download a font to use this file - [Mona Sans](https://github.com/mona-sans), and the [Figma Desktop app](https://www.figma.com/downloads/) for the font to work.
 :::
 
 There are two graphics that need to be made for each edition: the teaser and the announcement.
