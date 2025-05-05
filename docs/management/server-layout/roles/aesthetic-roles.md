@@ -7,6 +7,10 @@ sidebar_label: Aesthetic Roles
 
 ## Event Roles
 
+| Manager                           | Shadow                              |
+| --------------------------------- | ----------------------------------- |
+| @[neverrmett](734640971232444486) | @[sick_ranchez](947853707331121282) |
+
 Event roles are often given out for participation in server events.
 
 ### Art Event Roles
@@ -30,19 +34,24 @@ Event roles are often given out for participation in server events.
 
 @[Big Chumpgus](0) and @[People's Champ](0) do not have any specific criteria and so are only given out in specific and unique instances.
 
-
 ## Flair Roles
 
-Users can select their own flair roles using the Onboarding questions, accessible through *#Channels & Roles*. For more information, see [Onboarding](../../onboarding).
+| Manager                       | Shadow                         |
+| ----------------------------- | ------------------------------ |
+| @[rixov](1289511684058120193) | @[gryphyn](425133411837935628) |
 
+Users can select their own flair roles using the Onboarding questions, accessible through _#Channels & Roles_. For more information, see [Onboarding](../../onboarding).
 
 ## Other Roles
 
 ### Birthday Role
+
+| Manager                           | Shadow                        |
+| --------------------------------- | ----------------------------- |
+| @[neverrmett](734640971232444486) | @[rixov](1289511684058120193) |
 
 On users' birthdays, they can request the 'Enjoy a MARVELous B-day!' role.
 
 ### Subreddit Mod
 
 Subreddit mods are users who are also moderators of the [r/Marvel](https://reddit.com/r/Marvel) subreddit.
-

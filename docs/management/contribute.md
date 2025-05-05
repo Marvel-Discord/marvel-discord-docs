@@ -5,7 +5,11 @@ sidebar_label: Contributing to the Docs
 
 # How to Contribute to the Docs
 
-These docs are open-source on [GitHub](https://github.com/Rocked03/marvel-discord-docs), where the repository is automatically deployed to the website. 
+| Manager                         | Shadow                                |
+| ------------------------------- | ------------------------------------- |
+| @[rocked03](204778476102877187) | @[julianinvictus](621018366655725570) |
+
+These docs are open-source on [GitHub](https://github.com/Rocked03/marvel-discord-docs), where the repository is automatically deployed to the website.
 
 To contribute, push your edits to a branch and open a pull request.
 
@@ -54,7 +58,7 @@ Before you start editing, create a new branch to work on. This keeps your change
 
 ### Navigating the codebase
 
-Firstly, open the newly created codebase folder in your IDE (e.g. Visual Studio Code). Your IDE should have a pane reflecting the file tree of the codebase. 
+Firstly, open the newly created codebase folder in your IDE (e.g. Visual Studio Code). Your IDE should have a pane reflecting the file tree of the codebase.
 
 All the documentation exists in the `docs/` folder. Files are written in [Markdown](https://www.markdownguide.org/).
 
@@ -62,7 +66,7 @@ New pages use this general structure:
 
 ```md title="docs/management/hello.md" {1-4}
 ---
-sidebar_label: 'Hi!'
+sidebar_label: "Hi!"
 sidebar_position: 3
 ---
 
@@ -79,7 +83,7 @@ npx docusaurus start
 
 ### Saving your changes
 
-After you've made your changes, **save** the file. 
+After you've made your changes, **save** the file.
 
 You'll then need to **commit** your changes to your branch. You can do this in your git client or in terminal. Once you've committed your changes, **push** them to the repository.
 
@@ -87,7 +91,7 @@ You'll then need to **commit** your changes to your branch. You can do this in y
 
 Once you've pushed your changes, go to [the repository](https://github.com/Rocked03/marvel-discord-docs) on GitHub. You should see a banner at the top of the page prompting you to open a pull request. Click on it and follow the instructions to open a pull request.
 
-The pull request will be reviewed by Rocked. Some edits (content, styling, etc.) may possibly be required before merging. Once the pull request is approved, you can merge it into the main branch, and your changes will be automatically deployed to the website. 
+The pull request will be reviewed by Rocked. Some edits (content, styling, etc.) may possibly be required before merging. Once the pull request is approved, you can merge it into the main branch, and your changes will be automatically deployed to the website.
 
 :::info[Confused?]
 

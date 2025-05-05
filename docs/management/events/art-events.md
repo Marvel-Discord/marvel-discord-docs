@@ -5,22 +5,27 @@ sidebar_label: Art Events
 
 # Art Events
 
-Art events are long-running activities encouraging people to create art. 
+| Manager                           | Shadow |
+| --------------------------------- | ------ |
+| @[neverrmett](734640971232444486) |        |
+
+Art events are long-running activities encouraging people to create art.
 
 ## Schedule
 
-These events are typically hosted once or twice a year, often to corroborate with an event, holiday, or month. We've previously had events for "Drawtober", "Maysthetic", Valentine's, Deadpool & Wolverine, etc. The events run for a few weeks to a month, depending on the size. 
+These events are typically hosted once or twice a year, often to corroborate with an event, holiday, or month. We've previously had events for "Drawtober", "Maysthetic", Valentine's, Deadpool & Wolverine, etc. The events run for a few weeks to a month, depending on the size.
 
 ## Prompts
 
 Prompts are typically themed around the event's occasion, as well as being lightly Marvel-themed.
 
 There are multiple ways to provide prompts
+
 - Daily prompts - each day, a new prompt is released. Pros: Encourages daily engagement. Cons: Is often hard to keep up with, and can be overwhelming.
 - Periodic prompts - prompts are released every few days. Pros: Easier to keep up with. Cons: Potentially less engagement with less art being created.
 - Grouped prompts - prompts are released in groups, and users can pick and choose which ones they want to do. Pros: Gives more freedom to people. Cons: Less consistency across the event.
 
-Make sure to prepare all the prompts prior to the event starting. 
+Make sure to prepare all the prompts prior to the event starting.
 
 ## Setting it up
 
@@ -31,7 +36,7 @@ We have existing #[art-event](1204608353859276871) forum channels that are made 
   - Create additional `Prompt #x` tags if needed
 - Create an introductory post
   - This provides any info required about the event, such as rules, details, FAQ, etc.
-  - This is also where the prompts can be posted. 
+  - This is also where the prompts can be posted.
   - Pin this post.
 - When ready, unlock the channel by enabling the `Create Posts` permission for the `@everyone`.
 

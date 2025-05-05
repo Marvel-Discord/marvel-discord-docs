@@ -1,13 +1,17 @@
 ---
-sidebar_position: 8
+sidebar_position: 1
 sidebar_label: Website
 ---
 
 # Website
 
+| Manager                         | Shadow |
+| ------------------------------- | ------ |
+| @[rocked03](204778476102877187) |        |
+
 We have a website! It can be found at https://marvelcord.com/.
 
-This website is [open-source](https://github.com/Rocked03/marvel-discord-site), built using Next.js and Typescript, and is hosted using Netlify. 
+This website is [open-source](https://github.com/Rocked03/marvel-discord-site), built using Next.js and Typescript, and is hosted using Netlify.
 
 ## Invite
 
@@ -27,9 +31,9 @@ If somebody asks about appealing a ban, please direct them to this page!
 
 We've also got a gallery! https://marvelcord.com/gallery
 
-This gallery has three pages - logos, banners, and wallpapers - all filled from the server's archives. 
+This gallery has three pages - logos, banners, and wallpapers - all filled from the server's archives.
 
-Images can be added to the gallery by editing the `entries.ts` files in the codebase. 
+Images can be added to the gallery by editing the `entries.ts` files in the codebase.
 
 ```ts
   {

@@ -5,7 +5,11 @@ sidebar_label: Expressions
 
 # Expressions
 
-Expressions is a categorical term encompassing emoji, stickers, and soundboard sounds. 
+| Manager                       | Shadow                            |
+| ----------------------------- | --------------------------------- |
+| @[rixov](1289511684058120193) | @[neverrmett](734640971232444486) |
+
+Expressions is a categorical term encompassing emoji, stickers, and soundboard sounds.
 
 ## Emoji
 

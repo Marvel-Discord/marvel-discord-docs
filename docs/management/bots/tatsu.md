@@ -4,8 +4,11 @@ sidebar_label: Japanese F.R.I.D.A.Y. (Tatsu)
 
 # Japanese F.R.I.D.A.Y., aka Tatsu
 
-Tatsu is a utility bot. 
+| Manager                        | Shadow                              |
+| ------------------------------ | ----------------------------------- |
+| @[gryphyn](425133411837935628) | @[sick_ranchez](947853707331121282) |
 
+Tatsu is a utility bot.
 
 | Prefix | Website           |
 | ------ | ----------------- |

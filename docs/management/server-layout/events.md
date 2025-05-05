@@ -5,6 +5,10 @@ sidebar_label: Event Listings
 
 # Event Listings
 
+| Manager                       | Shadow                            |
+| ----------------------------- | --------------------------------- |
+| @[rixov](1289511684058120193) | @[shake.png](1034384071415050300) |
+
 Not to be confused with activities run by the server, these Events are listings using Discord's built-in feature.
 
 ![Events icon](/img/server-layout/events-icon.png)
@@ -29,15 +33,15 @@ The description shouldn't be too difficult, but it's good to get in the best det
 > Trailer: https://youtu.be/.... link if it exists yet.
 > ```
 
-Shows with weekly releases can also enable weekly recurrence. 
+Shows with weekly releases can also enable weekly recurrence.
 
 ## Conventions & Presentations
 
 Convention and presentation listings are typically for significant events, such as San Diego Comic-Con, New York Comic-Con, and Disney's Investor Day. Typically these are when major announcements are often made.
 
-The event listing should list the exact time of the presentation if possible, otherwise a general time-frame (typically the convention duration) is fine. 
+The event listing should list the exact time of the presentation if possible, otherwise a general time-frame (typically the convention duration) is fine.
 
-These events don't need detailed descriptions, just a brief overview of what the event is about. We don't often know what will be announced, so it's best to clearly outline the speculative parts ("may include" "might possibly cover" "historically/traditionally... "). 
+These events don't need detailed descriptions, just a brief overview of what the event is about. We don't often know what will be announced, so it's best to clearly outline the speculative parts ("may include" "might possibly cover" "historically/traditionally... ").
 
 ## Server Events
 

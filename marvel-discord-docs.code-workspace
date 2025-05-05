@@ -5,6 +5,10 @@
     }
   ],
   "settings": {
-    "cSpell.words": ["spoilery"]
+    "cSpell.words": ["spoilery"],
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[markdown]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
   }
 }
