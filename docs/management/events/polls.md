@@ -5,6 +5,10 @@ sidebar_label: Polls
 
 # Polls
 
+| Manager                         | Shadow                            |
+| ------------------------------- | --------------------------------- |
+| @[rocked03](204778476102877187) | @[neverrmett](734640971232444486) |
+
 Polls are daily Marvel questions asked to the server. These are handled through the Jocasta bot.
 
 ## Categories
@@ -28,12 +32,12 @@ TODO
 | Monday    | 5:00pm     |                                     |
 | Tuesday   | 5:00pm     | Comics vs MCU Designs               |
 | Wednesday | 5:00pm     | MCU Predictions (every two weeks)   |
-| Thursday  | 5:00pm     | *Topical - current movie / TV show* |
+| Thursday  | 5:00pm     | _Topical - current movie / TV show_ |
 | Friday    | 5:00pm     | Comics                              |
 | Saturday  | 5:00pm     |                                     |
 | Sunday    | 5:00pm     | MCU                                 |
 
-*Empty days are often reserved to fit in extra topical polls* 
+_Empty days are often reserved to fit in extra topical polls_
 
 ## Graphics
 

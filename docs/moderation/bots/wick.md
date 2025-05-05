@@ -5,9 +5,13 @@ sidebar_label: Wick
 
 # Wick
 
-Wick is our anti-nuke bot. 
+| Manager                               | Shadow                         |
+| ------------------------------------- | ------------------------------ |
+| @[julianinvictus](621018366655725570) | @[gryphyn](425133411837935628) |
 
-This bot prevents anyone from doing any dangerous actions, such as deleting multiple channels, roles, etc. in a short period of time. If this happens, the user gets "quarantined". This strips them of all their roles and permissions until an admin "unquarantines" them. 
+Wick is our anti-nuke bot.
+
+This bot prevents anyone from doing any dangerous actions, such as deleting multiple channels, roles, etc. in a short period of time. If this happens, the user gets "quarantined". This strips them of all their roles and permissions until an admin "unquarantines" them.
 
 | Prefix | Website              |
 | ------ | -------------------- |
@@ -17,7 +21,7 @@ This bot prevents anyone from doing any dangerous actions, such as deleting mult
 
 ### Quarantine
 
-This is only accessible to admins. 
+This is only accessible to admins.
 
 ```
 /quarantine add [user]

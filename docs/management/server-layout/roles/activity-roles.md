@@ -7,6 +7,10 @@ sidebar_label: Activity Roles
 
 ## Level Roles
 
+| Manager                          | Shadow                         |
+| -------------------------------- | ------------------------------ |
+| @[shake.png](621018366655725570) | @[gryphyn](425133411837935628) |
+
 Level roles are managed by the MEE6 bot, which tracks the message activity of users in the server. When a user sends a message (once per minute), they accumulate exp that contributes to their level. The levels are as follows:
 
 - Level 1 - @[SHIELD Recruit](0) - Can use external emoji.
@@ -27,6 +31,10 @@ Level roles are managed by the MEE6 bot, which tracks the message activity of us
 - Level 100 - @[Assembled Avenger](0)
 
 ## Special Roles
+
+| Manager                       | Shadow                         |
+| ----------------------------- | ------------------------------ |
+| @[rixov](1289511684058120193) | @[gryphyn](425133411837935628) |
 
 ### True Believer
 

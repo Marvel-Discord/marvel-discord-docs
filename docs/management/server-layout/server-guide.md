@@ -5,6 +5,10 @@ sidebar_label: Server Guide
 
 # Server Guide
 
+| Manager                               | Shadow                        |
+| ------------------------------------- | ----------------------------- |
+| @[julianinvictus](621018366655725570) | @[rixov](1289511684058120193) |
+
 See [Discord Pages](../discord-pages) for the actual content of these pages.
 
 ## Server Info

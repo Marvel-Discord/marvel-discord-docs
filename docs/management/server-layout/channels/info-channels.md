@@ -11,11 +11,15 @@ See [Rules](../../../moderation/rules.md).
 
 ## #[announcements](1110214786223968346)
 
-This channel is for server-related announcements. It's rather loose on what belongs here, but it's typically used to announce updates (like spoiler channel changes), events, milestones, etc. 
+This channel is for server-related announcements. It's rather loose on what belongs here, but it's typically used to announce updates (like spoiler channel changes), events, milestones, etc.
 
 There's no guidelines on how formal or casual this channel should be, but messages should have some purpose (please don't use the channel to just shitpost!)
 
 ## News channels
+
+| Manager                         | Shadow                              |
+| ------------------------------- | ----------------------------------- |
+| @[rocked03](204778476102877187) | @[sick_ranchez](947853707331121282) |
 
 ### How to post news
 
@@ -28,7 +32,7 @@ News message here
 
 ### #[comic-news](1109021470736252938)
 
-This channel is for news relating to Marvel Comics. 
+This channel is for news relating to Marvel Comics.
 
 @[Zelma](1098223523668951111) sends the weekly comics automatically. See [Weekly Comics](../../bots/weekly-comics) for more info.
 
@@ -40,7 +44,7 @@ This channel is for news relating to Marvel Comics.
     - new covers / variant covers
     - the next issue of a book
     - the next arc
-- ***Importantly***, only from reputable sources
+- **_Importantly_**, only from reputable sources
   - From Marvel (Marvel.com, Twitter, etc)
   - Reputable trades (AIPT, etc.)
   - Things are often announced by the authors, so them too
@@ -65,7 +69,7 @@ This channel is for news relating to anything Marvel in film and television.
     - other general marketing things (ads, merch, etc)
   - Rumours
   - Fan-made content
-- ***Importantly***, only from reputable sources
+- **_Importantly_**, only from reputable sources
   - From Marvel themselves (Marvel.com, Twitter, etc)
   - Reputable trades
     - Variety, The Hollywood Reporter, and Deadline most frequently

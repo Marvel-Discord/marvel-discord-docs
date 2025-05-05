@@ -6,6 +6,10 @@ slug: ./
 
 # About Modmail
 
+| Manager                        | Shadow                              |
+| ------------------------------ | ----------------------------------- |
+| @[gryphyn](425133411837935628) | @[sick_ranchez](947853707331121282) |
+
 [Marvel Modmail](https://discord.com/users/915931490666283058) is a Discord bot that facilitates the sending of direct messages to the server's staff team.
 
 Modmail allows us to provide a consistent approach to moderation cases. While individual moderator DMs can often result in inconsistent approaches, lost records, and miscommunication, Modmail opens a line between the user and the whole moderation team. This means that all moderators are able to be informed and involved in all moderation discussions with no potentially important information lost due to some chain of Chinese whispers screenshots. All communication, both internally and with users, is logged so that it can be referenced at any point..

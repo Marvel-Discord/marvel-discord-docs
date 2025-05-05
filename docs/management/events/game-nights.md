@@ -5,7 +5,11 @@ sidebar_label: Game Nights
 
 # Game Nights
 
-We occasionally host game nights. This is a very broad category for any game night hosted in the server. 
+| Manager                             | Shadow                            |
+| ----------------------------------- | --------------------------------- |
+| @[sick_ranchez](947853707331121282) | @[neverrmett](734640971232444486) |
+
+We occasionally host game nights. This is a very broad category for any game night hosted in the server.
 
 Game Nights are typically hosted in #[murderworld](1207619588565499924).
 
@@ -17,7 +21,7 @@ There's a lot of people from many different parts of the world. Our largest demo
 
 ### Hosting
 
-Different games have different interactions. Some games are more suited for larger groups, while others are better for smaller groups. Try and plan towards a certain group size beforehand so you can pick out a game that suits. For inclusivity, try to support larger groups, as this allows more people to join in - although be prepared to pivot if the group ends up being smaller. 
+Different games have different interactions. Some games are more suited for larger groups, while others are better for smaller groups. Try and plan towards a certain group size beforehand so you can pick out a game that suits. For inclusivity, try to support larger groups, as this allows more people to join in - although be prepared to pivot if the group ends up being smaller.
 
 ### Games
 

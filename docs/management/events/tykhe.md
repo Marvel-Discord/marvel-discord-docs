@@ -5,6 +5,10 @@ sidebar_label: TYKHE
 
 # TYKHE
 
+| Manager                           | Shadow                              |
+| --------------------------------- | ----------------------------------- |
+| @[shake.png](1034384071415050300) | @[sick_ranchez](947853707331121282) |
+
 TYKHE is a Discord-based digital card-collecting gacha game. It's a joint venture by the Marvel Studios and DC Films servers, and we're a partner server in this activity.
 
 We don't do anything in particular to help run the activity.
@@ -20,6 +24,7 @@ All details about TYKHE can be found in this server.
 ## Channels
 
 We have multiple channels for TYKHE in the server, all in the TYKHE category:
+
 - #[tykhe-announcements](1109726177964331148) is a feed of the announcements from the Bridge server.
 - #[tykhe-shop](1109726240803405894) is a feed of the shop updates from the Bridge server.
 - #[tykhe-rolling](1109726292208779385) and #[tykhe-rolling-2](1110217807116906507) are for rolling for cards.
@@ -31,14 +36,16 @@ We have multiple channels for TYKHE in the server, all in the TYKHE category:
 
 ## Commands
 
-`!roll`/`!r` is the main command for rolling. 
+`!roll`/`!r` is the main command for rolling.
 
 For a more detailed overview of the commands, use the bot's in-built help.
+
 ```
 !getstarted
 ```
 
 The bot can also be configured to toggle role and channel permissions within our server.
+
 ```
 !settings
 ```
