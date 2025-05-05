@@ -28,14 +28,24 @@ export const handleMentionLinksPlugin: Plugin<[], Root> = () => {
 		},
 	];
 	return (tree) => {
-		visit(tree, ["paragraph", "heading"], (node) => {
+		visit(tree, ["paragraph", "heading", "tableCell"], (node) => {
 			let children: Paragraph["children"];
-			if (node.type === "paragraph") {
-				children = node.children;
-			} else if (node.type === "heading") {
-				children = node.children;
-			} else {
-				return;
+			switch (node.type) {
+				case "paragraph":
+					children = node.children;
+					break;
+				case "heading":
+					children = node.children;
+					break;
+				case "tableCell":
+					children = node.children;
+					break;
+				default:
+					return;
+			}
+
+			if (node.type === "tableCell") {
+				console.log(children);
 			}
 
 			for (let i = 0; i < node.children.length - 1; i++) {
