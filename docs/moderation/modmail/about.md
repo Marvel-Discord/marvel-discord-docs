@@ -6,9 +6,9 @@ slug: ./
 
 # About Modmail
 
-| Manager                        | Shadow                              |
-| ------------------------------ | ----------------------------------- |
-| @[gryphyn](425133411837935628) | @[sick_ranchez](947853707331121282) |
+| Manager                        | Shadow                               |
+| ------------------------------ | ------------------------------------ |
+| @[gryphyn](425133411837935628) | @[sick_ranchez.](947853707331121282) |
 
 [Marvel Modmail](https://discord.com/users/915931490666283058) is a Discord bot that facilitates the sending of direct messages to the server's staff team.
 

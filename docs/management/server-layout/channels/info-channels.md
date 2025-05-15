@@ -17,9 +17,9 @@ There's no guidelines on how formal or casual this channel should be, but messag
 
 ## News channels
 
-| Manager                         | Shadow                              |
-| ------------------------------- | ----------------------------------- |
-| @[rocked03](204778476102877187) | @[sick_ranchez](947853707331121282) |
+| Manager                         | Shadow                               |
+| ------------------------------- | ------------------------------------ |
+| @[rocked03](204778476102877187) | @[sick_ranchez.](947853707331121282) |
 
 ### How to post news
 

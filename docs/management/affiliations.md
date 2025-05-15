@@ -5,9 +5,9 @@ sidebar_label: Affiliations
 
 # Affiliations
 
-| Manager                               | Shadow                              |
-| ------------------------------------- | ----------------------------------- |
-| @[julianinvictus](621018366655725570) | @[sick_ranchez](947853707331121282) |
+| Manager                               | Shadow                               |
+| ------------------------------------- | ------------------------------------ |
+| @[julianinvictus](621018366655725570) | @[sick_ranchez.](947853707331121282) |
 
 We occasionally affiliate with other servers we think are cool! These servers get listed in #[server-affiliates](1109728410894356500).
 

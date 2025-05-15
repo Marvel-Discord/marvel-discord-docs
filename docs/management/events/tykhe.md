@@ -5,9 +5,9 @@ sidebar_label: TYKHE
 
 # TYKHE
 
-| Manager                           | Shadow                              |
-| --------------------------------- | ----------------------------------- |
-| @[shake.png](1034384071415050300) | @[sick_ranchez](947853707331121282) |
+| Manager                           | Shadow                               |
+| --------------------------------- | ------------------------------------ |
+| @[shake.png](1034384071415050300) | @[sick_ranchez.](947853707331121282) |
 
 TYKHE is a Discord-based digital card-collecting gacha game. It's a joint venture by the Marvel Studios and DC Films servers, and we're a partner server in this activity.
 

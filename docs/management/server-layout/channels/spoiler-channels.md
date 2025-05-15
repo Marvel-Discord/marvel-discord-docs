@@ -5,9 +5,9 @@ sidebar_label: Spoiler Channels
 
 # Spoiler Channels
 
-| Manager                             | Shadow                            |
-| ----------------------------------- | --------------------------------- |
-| @[sick_ranchez](947853707331121282) | @[neverrmett](734640971232444486) |
+| Manager                              | Shadow                            |
+| ------------------------------------ | --------------------------------- |
+| @[sick_ranchez.](947853707331121282) | @[neverrmett](734640971232444486) |
 
 We have spoiler channels in our server to contain spoilery discussions. These are frequently used, as everyone watches content at different times and are most often avoiding spoilers before they watch it.
 
