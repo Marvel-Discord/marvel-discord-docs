@@ -28,7 +28,7 @@ Best practice is to use pre-join questions as the category of questions that wil
 ### Server Guide
 Server Guide is colloquiolly the forgotten child of Onboarding. [Here](https://support.discord.com/hc/en-us/articles/13497665141655-Server-Guide-FAQ) is the Discord-written FAQ on Server Guides. Server Guide is intended to be, literally, the guidepost for which users (new and old) can reference at any moment. It is permanently visable when activated to all users, and can only be hidden by deactivating it. It is not required to be activated when Onboarding is enabled, but can be toggled on/off without effecting the rest of Onboarding. There is a separate article on the Marvelcord site linked here.
 
-## Managing the *MarvelCord* Onboarding
+## Managing the *Marvel Discord* Onboarding
 ### Default Channels
 Currently there are 16 total channels denoted as 'default channels', 8 of which @everyone has the `Send Messages` permission. Since Default Channels only effect *new* users, any changes made to this set-up will not effect what channels *existing* users see in Onboarding. However, any changes to the Default Channels setting should be made collectively amongst the Management team, or in coordinator with Rocked, since it can dramatically change the type of user experience we are subjecting new users to.
 
@@ -43,17 +43,15 @@ There are currently two (2) post-join questions, consisting of:
 - `What are your pronouns?`
 - `What extra channel collections are you interested in?`
 
-## Server Guide
-We are fortunate to have a very concise but detailed Server Guide module. It contains access to these resource pages:
-- `Server Info`
-- `FAQ`
-- `Contact Staff`
-- `Ban Appeals`
-- `Activities & Events`
-- `Spoiler Channel Archive Map`
+## [Server Guide](https://docs.marvelcord.com/management/server-layout/server-guide)
 
 [^1]: There is a maximum number of answers a single question can have, and therefore some servers choose to not utilize onboarding if they have a question with more than 50 possible answers.
 [^2]: Default channels can be *disallowed* for users with a role. E.g. I can disallow users from seeing [x] default channel after they have a certain role.
 [^3]: Pre-join questions are still visable via `"Channels & Roles"` after joining the server.
 [^4]: Subject to change.
 [^5]: This is, generally speaking, the most contentious piece of the Onboarding experience from a Management perspective. Since Discord limits the number of answer-options we can add to fifty (50), users are *frequently* asking us to add their favorite respective hero to the `Choose a character` question. We like to note these requests, but openly note that we cannot honor every request, and we try our best to rotate options out. My advice is to look at the number of users with a given hero role selected, and prioritize the lowest-selected roles for being changed out.
+
+
+| Manager                               | Shadow                        |
+| ------------------------------------- | ----------------------------- |
+| @[julianinvictus](621018366655725570) | @[rixov](1289511684058120193) |
