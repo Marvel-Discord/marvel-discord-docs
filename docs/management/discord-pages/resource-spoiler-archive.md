@@ -11,8 +11,9 @@ This channel lists the spoiler archive in Server Guide.
 ---
 
 # Spoiler Archive
+
 This channel contains a list linking to our archive of all our spoiler channel discussions!
--# *Unfortunately, we no longer have our archives from prior to May 2023.*
+-# _Unfortunately, we no longer have our archives from prior to May 2023._
 
 ---
 
@@ -47,7 +48,7 @@ This channel contains a list linking to our archive of all our spoiler channel d
 
 ---
 
-# 2025
+![2025 Banner](../../../static/img/discord-pages/2025.png)
 
 ---
 
