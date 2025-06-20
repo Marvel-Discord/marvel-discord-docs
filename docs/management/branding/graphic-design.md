@@ -17,6 +17,10 @@ The server's graphics are mostly all designed by Rocked03, using a mix of [Figma
 
 :::
 
+:::warning[Note]
+The branding listed on this page covers the branding used from 2017 to 2025. Updated information with the new branding will be added soon!
+:::
+
 ## Icon
 
 Our primary icon is the classic Discord chat bubble icon with the M from the Marvel logo in the centre.
