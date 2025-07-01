@@ -5,9 +5,9 @@ sidebar_label: Bookclub
 
 # Bookclub
 
-| Manager                         | Shadow                            |
-| ------------------------------- | --------------------------------- |
-| @[rocked03](204778476102877187) | @[shake.png](1034384071415050300) |
+| Manager                         | Shadow                           |
+| ------------------------------- | -------------------------------- |
+| @[rocked03](204778476102877187) | @[bowgaming](299977242870808577) |
 
 :::info[Note]
 The details on this page refer to the Bookclub hosted from 2024-present. Not detailed are the previous iterations of the Bookclub that have been hosted in previous years since 2018.

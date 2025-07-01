@@ -5,9 +5,9 @@ sidebar_label: Affiliations
 
 # Affiliations
 
-| Manager                               | Shadow                              |
-| ------------------------------------- | ----------------------------------- |
-| @[julianinvictus](621018366655725570) | @[sick_ranchez](947853707331121282) |
+| Manager                               | Shadow                           |
+| ------------------------------------- | -------------------------------- |
+| @[julianinvictus](621018366655725570) | @[bowgaming](299977242870808577) |
 
 We occasionally affiliate with other servers we think are cool! These servers get listed in #[server-affiliates](1109728410894356500).
 
@@ -42,6 +42,6 @@ Conversely, we provide our own server information to the affiliates for them to 
 
 > _Join THE server for everything Marvel! Made by fans, for fans, we chat about the comics, films, shows, games, and more!_ > https://discord.gg/marvel
 
-![Banner wide](/img/affiliations/banner-wide.png)
-![Banner wide squared](/img/affiliations/banner-wide-squared.png)
-![Banner wide minimal](/img/affiliations/banner-wide-minimal.png)
+![Banner wide](/img/affiliations/Banner_wide_rounded.png)
+![Banner wide squared](/img/affiliations/Banner_wide_corners.png)
+![Banner wide minimal](/img/affiliations/Banner_wide_icon_only.png)
