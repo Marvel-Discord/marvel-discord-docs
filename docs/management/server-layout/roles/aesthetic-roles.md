@@ -7,9 +7,9 @@ sidebar_label: Aesthetic Roles
 
 ## Event Roles
 
-| Manager                           | Shadow                              |
-| --------------------------------- | ----------------------------------- |
-| @[neverrmett](734640971232444486) | @[sick_ranchez](947853707331121282) |
+| Manager                           | Shadow                           |
+| --------------------------------- | -------------------------------- |
+| @[neverrmett](734640971232444486) | @[bowgaming](299977242870808577) |
 
 Event roles are often given out for participation in server events.
 
