@@ -42,6 +42,6 @@ Conversely, we provide our own server information to the affiliates for them to 
 
 > _Join THE server for everything Marvel! Made by fans, for fans, we chat about the comics, films, shows, games, and more!_ > https://discord.gg/marvel
 
-![Banner wide](/img/affiliations/Banner wide rounded.png)
-![Banner wide squared](/img/affiliations/Banner wide corners.png)
-![Banner wide minimal](/img/affiliations/Banner wide icon only.png)
+![Banner wide](/img/affiliations/Banner_wide_rounded.png)
+![Banner wide squared](/img/affiliations/Banner_wide_corners.png)
+![Banner wide minimal](/img/affiliations/Banner_wide_icon_only.png)
