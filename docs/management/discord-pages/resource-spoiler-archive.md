@@ -57,3 +57,4 @@ This channel contains a list linking to our archive of all our spoiler channel d
 - **Daredevil: Born Again S1**: https://discord.com/channels/281648235557421056/1109731769269366834/1345385410636939274
 - **Thunderbolts\***: https://discord.com/channels/281648235557421056/1109731773815992361/1364375448108273675
 - **Ironheart**: https://discord.com/channels/281648235557421056/1109731773815992361/1387285029323014144
+- **The Fantastic Four: First Steps**: https://discord.com/channels/281648235557421056/1109731769269366834/1396093411626586112
