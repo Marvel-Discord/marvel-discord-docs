@@ -34,10 +34,14 @@ Currently there are 16 total channels denoted as 'default channels', 8 of which 
 
 ## Questions
 There are currently four (4) pre-join questions, consisting of:
-- `What do you want to chat about in this community?`
-- `What current MARVEL spoilers are you wanting to chat about?`
-- `What events do you want to get notified about?`
-- `Choose a character! Their emoji will show next to your username!`[^5]
+- `What do you want to chat about in this community?` 
+  - This question is meant to give users assigned channels depending on their answer (i.e. it will "assign" them the #comics channel, if they select the Marvel Comics answer).
+- `What current MARVEL spoilers are you wanting to chat about?` 
+  - This question is bi-modal. It assigns spoiler channels depending on the users' answer (i.e. Fantastic 4 spoilers if they select the respective answer), but ALSO will help prevent other users who do NOT want to see spoilers from accidentally stumbling upon them.
+- `What events do you want to get notified about?` 
+  - Fairly self-explanatory--this question has a variety of event-type answers such as upcoming comic releases, polls, art-based events, and more. The answers often assign both a channel and a role, respectively.
+- `Choose a character! Their emoji will show next to your username!`[^5] 
+  - This is what our users REALLY come for (and go to Modmail about) most often. This question assigns them a role that ALWAYS has a specific role-icon that appears at the end of the users' name in chat. It is a unique way for them to show some flair. None of the roles assigned have special permissions or special colors--just role icons.
 
 There are currently two (2) post-join questions, consisting of:
 - `What are your pronouns?`
