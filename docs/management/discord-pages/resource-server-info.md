@@ -28,6 +28,7 @@ The Marvel Discord is a community-run server celebrating the Marvel franchise. C
 * The @&[Celestial (Manager)](1328964907420356608) role is given to members of staff who are on our Management team. These staff members help organize events, make structural changes to the Discord server, and work in tandem with the Moderation team to deliver an outstanding experience for all users in the server. You can often find them changing the lightbulbs, or putting up a fresh coat of paint (figuratively). 
 ## True Believers
 * The @&[True Believers](281650017285177344) are our most valued members of our community, as evaluated by the staff. This is a role that is earnt over time and by building a good reputation within our community. It is given out on a case-by-case basis, and is earnt, not requested.
+* The @&[TB Alumni](1396111127271706698) role is given to former members of the True Belivers. Since the True Believers role is not permanent, we still wanted to find a way to honor those who have held it in the past, as recognition for their contribution to the Marvel Discord. It also comes with a neat role color style.
 ## Levels
 * Our server uses a levelling role structure that is managed by @[MEE6](159985870458322944). You can earn XP as you chat (15-20 XP for one message you send per minute). Higher levels reward you with more valuable roles, which include more permissions:
  * @&[SHIELD Recruit](287087712765476864) (Level 1) - Connect to Voice Chat
@@ -46,3 +47,5 @@ The Marvel Discord is a community-run server celebrating the Marvel franchise. C
  * @&[Dark Avenger](499806364860940298) (Level 80)
  * @&[H.A.M.M.E.R.](499806353150312458) (Level 90)
  * @&[Assembled Avenger](499806725826674708) (Level 100)
+## Other Roles
+* The @&[Murderworld](405119622153633793) role is an opt-in role selectable in <id:customize> for users who want to be pinged when we host fun, creative events. These can include challenges, interactive storylines, giveaways, brackets, polls, and more Marvel related events. If you like community-events or games, this role is for you.
