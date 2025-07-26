@@ -19,7 +19,7 @@ The moderation team comprises of the @[Watcher (Moderation)](0) and @[Ultimate (
 
 Watchers are full-time moderators. They have the full responsibilities of a moderator with full moderation capabilities, including bans and appeals.
 
-The current Watcher team consists of @[gryphyn](425133411837935628), @[shake.png](1034384071415050300), @[cs0119](582080465482285056), @[devil_jin_987](1107591484624093184), @[morganstarkk](1164870671302660222), @[sean](853459869218897970), and @[vokzul](162453378364997633).
+The current Watcher team consists of @[gryphyn](425133411837935628), @[shake.png](1034384071415050300), @[cs0119](582080465482285056), @[morganstarkk](1164870671302660222), and @[vokzul](162453378364997633).
 
 ### Ultimates (Casual Moderators)
 
