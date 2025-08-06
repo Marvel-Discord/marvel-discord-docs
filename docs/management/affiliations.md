@@ -40,7 +40,9 @@ Conversely, we provide our own server information to the affiliates for them to 
 
 ## Our affiliation info
 
-> _Join THE server for everything Marvel! Made by fans, for fans, we chat about the comics, films, shows, games, and more!_ > https://discord.gg/marvel
+> _Join THE server for everything Marvel! Made by fans, for fans, we chat about the comics, films, shows, games, and more!_
+>
+> https://discord.gg/marvel
 
 ![Banner wide](/img/affiliations/Banner_wide_rounded.png)
 ![Banner wide squared](/img/affiliations/Banner_wide_corners.png)
