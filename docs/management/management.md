@@ -19,7 +19,7 @@ The management team comprises of the @&[Celestial (Manager)](0) role.
 
 Currently, there is only one management role, which encompasses all management responsibilities.
 
-The current Celestial team consists of @[rocked03](204778476102877187), @[gryphyn](425133411837935628), @[julianinvictus](621018366655725570), @[neverrmett](734640971232444486), @[rixov](1289511684058120193), @[shake.png](1034384071415050300), and @[bowgaming](299977242870808577).
+The current Celestial team consists of @[rocked03](204778476102877187), @[bowgaming](299977242870808577), @[gryphyn](425133411837935628), @[julianinvictus](621018366655725570), @[neverrmett](734640971232444486), @[rixov](1289511684058120193), and @[shake.png](1034384071415050300).
 
 #### Permissions
 
