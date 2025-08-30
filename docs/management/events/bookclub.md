@@ -139,3 +139,7 @@ If you're hosting a raffle, you can collect entries to the raffle by asking peop
 - 02/25 [Captain America: Brave New World](https://discord.com/channels/281648235557421056/1110968611767582730/1340198486620246110) — _All-New Captain America (2015)_ #1-6 by Rick Remender
 - 03/25 [Daredevil: Born Again](https://discord.com/channels/281648235557421056/1110968611767582730/1347679535478472787) — _Daredevil (2019)_ #1-5 by Chip Zdarsky
 - 04/25 [One World Under Doom Vol. 1](https://discord.com/channels/281648235557421056/1110968611767582730/1357907342712242441) — _Unbeatable Squirrel Girl (2015)_ #1-8 by Ryan North
+- 05/25 [Thunderbolts\*](https://discord.com/channels/281648235557421056/1110968611767582730/1368002296365191249) — _Thunderbolts (1997)_ #1-6 by Kurt Busiek
+- 06/25 [Ironheart](https://discord.com/channels/281648235557421056/1110968611767582730/1385895377567219783) — _Invincible Iron Man (2016)_ #1-5 by Brian Michael Bendis
+- 07/25 [The Fantastic Four: First Steps](https://discord.com/channels/281648235557421056/1110968611767582730/1395860962870952087) — _Fantastic Four (1998)_ #60-66 by Mark Waid
+- 08/25 [Eyes of Wakanda](https://discord.com/channels/281648235557421056/1110968611767582730/1406091678539972628) — _Rise of the Black Panther (2018)_ #1-6 by Evan Narcisse
