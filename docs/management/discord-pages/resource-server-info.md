@@ -48,4 +48,4 @@ The Marvel Discord is a community-run server celebrating the Marvel franchise. C
  * @&[H.A.M.M.E.R.](499806353150312458) (Level 90)
  * @&[Assembled Avenger](499806725826674708) (Level 100)
 ## Other Roles
-* The @&[Murderworld](405119622153633793) role is an opt-in role selectable in <id:customize> for users who want to be pinged when we host fun, creative events. These can include challenges, interactive storylines, giveaways, brackets, polls, and more Marvel related events. If you like community-events or games, this role is for you.
+* The @&[Murderworld](405119622153633793) role is an opt-in role selectable in `<id:customize>` for users who want to be pinged when we host fun, creative events. These can include challenges, interactive storylines, giveaways, brackets, polls, and more Marvel related events. If you like community-events or games, this role is for you.
