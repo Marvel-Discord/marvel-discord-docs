@@ -59,3 +59,4 @@ This channel contains a list linking to our archive of all our spoiler channel d
 - **Ironheart**: https://discord.com/channels/281648235557421056/1109731773815992361/1387285029323014144
 - **The Fantastic Four: First Steps**: https://discord.com/channels/281648235557421056/1109731769269366834/1396093411626586112
 - **Eyes of Wakanda**: https://discord.com/channels/281648235557421056/1109731773815992361/1400749505611169863
+- **Marvel Zombies**: https://discord.com/channels/281648235557421056/1109731838290829322/1417805706475733072
