@@ -143,3 +143,4 @@ If you're hosting a raffle, you can collect entries to the raffle by asking peop
 - 06/25 [Ironheart](https://discord.com/channels/281648235557421056/1110968611767582730/1385895377567219783) — _Invincible Iron Man (2016)_ #1-5 by Brian Michael Bendis
 - 07/25 [The Fantastic Four: First Steps](https://discord.com/channels/281648235557421056/1110968611767582730/1395860962870952087) — _Fantastic Four (1998)_ #60-66 by Mark Waid
 - 08/25 [Eyes of Wakanda](https://discord.com/channels/281648235557421056/1110968611767582730/1406091678539972628) — _Rise of the Black Panther (2018)_ #1-6 by Evan Narcisse
+- 09/25 [Marvel Zombies](https://discord.com/channels/281648235557421056/1110968611767582730/1416428904251396236) — _Marvel Zombies (2005)_ #1-5 by Robert Kirkman
