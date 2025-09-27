@@ -27,7 +27,7 @@ This channel details frequently asked questions in Server Guide.
 ---
 
 ## “Where can I read/watch for free?”
--# * We do not condone piracy, however there are other free alternatives that you could check out, such as Free Comic Book Day, *hoopla*, your local library, etc.
+-# * We do not condone piracy, however there are other free alternatives that you could check out, such as Free Comic Book Day, [WEBTOON](!https://www.webtoons.com/en/disney), *hoopla*, your local library, etc.
 
 ---
 
