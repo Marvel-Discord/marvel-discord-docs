@@ -144,3 +144,6 @@ If you're hosting a raffle, you can collect entries to the raffle by asking peop
 - 07/25 [The Fantastic Four: First Steps](https://discord.com/channels/281648235557421056/1110968611767582730/1395860962870952087) — _Fantastic Four (1998)_ #60-66 by Mark Waid
 - 08/25 [Eyes of Wakanda](https://discord.com/channels/281648235557421056/1110968611767582730/1406091678539972628) — _Rise of the Black Panther (2018)_ #1-6 by Evan Narcisse
 - 09/25 [Marvel Zombies](https://discord.com/channels/281648235557421056/1110968611767582730/1416428904251396236) — _Marvel Zombies (2005)_ #1-5 by Robert Kirkman
+- 10/25 [Manager's Pick Vol. 1](https://discord.com/channels/281648235557421056/1110968611767582730/1426520046079053836) — _Doctor Strange (2016)_ #1-5 by Jason Aaron
+- 11/25 [One World Under Doom Vol. 2](https://discord.com/channels/281648235557421056/1110968611767582730/1439142045296885912) — _Doctor Strange and Doctor Doom: Triumph and Torment (1989)_ #1 by Roger Stern
+- 12/25 [Manager's Pick Vol. 2](https://discord.com/channels/281648235557421056/1110968611767582730/1449537893486825544) — _Silver Surfer (2014)_ #1-5 by Dan Slott
