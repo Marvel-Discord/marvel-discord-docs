@@ -5,9 +5,9 @@ sidebar_label: Expressions
 
 # Expressions
 
-| Manager                       | Shadow                            |
-| ----------------------------- | --------------------------------- |
-| @[rixov](1289511684058120193) | @[neverrmett](734640971232444486) |
+| Manager                       | Shadow                             |
+| ----------------------------- | ---------------------------------- |
+| @[rixov](1289511684058120193) | @[\_toxicmofo](689989318118211650) |
 
 Expressions is a categorical term encompassing emoji, stickers, and soundboard sounds.
 

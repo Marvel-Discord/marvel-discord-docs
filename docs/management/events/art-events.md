@@ -5,9 +5,9 @@ sidebar_label: Art Events
 
 # Art Events
 
-| Manager                           | Shadow |
-| --------------------------------- | ------ |
-| @[neverrmett](734640971232444486) |        |
+| Manager                            | Shadow |
+| ---------------------------------- | ------ |
+| @[\_toxicmofo](689989318118211650) |        |
 
 Art events are long-running activities encouraging people to create art.
 
