@@ -5,9 +5,9 @@ sidebar_label: Polls
 
 # Polls
 
-| Manager                         | Shadow                            |
-| ------------------------------- | --------------------------------- |
-| @[rocked03](204778476102877187) | @[neverrmett](734640971232444486) |
+| Manager                         | Shadow                             |
+| ------------------------------- | ---------------------------------- |
+| @[rocked03](204778476102877187) | @[\_toxicmofo](689989318118211650) |
 
 Polls are daily Marvel questions asked to the server. These are handled through the Jocasta bot.
 

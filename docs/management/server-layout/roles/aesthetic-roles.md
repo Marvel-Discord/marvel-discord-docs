@@ -7,9 +7,9 @@ sidebar_label: Aesthetic Roles
 
 ## Event Roles
 
-| Manager                           | Shadow                           |
-| --------------------------------- | -------------------------------- |
-| @[neverrmett](734640971232444486) | @[bowgaming](299977242870808577) |
+| Manager                            | Shadow                           |
+| ---------------------------------- | -------------------------------- |
+| @[\_toxicmofo](689989318118211650) | @[bowgaming](299977242870808577) |
 
 Event roles are often given out for participation in server events.
 
@@ -46,9 +46,9 @@ Users can select their own flair roles using the Onboarding questions, accessibl
 
 ### Birthday Role
 
-| Manager                           | Shadow                        |
-| --------------------------------- | ----------------------------- |
-| @[neverrmett](734640971232444486) | @[rixov](1289511684058120193) |
+| Manager                            | Shadow                        |
+| ---------------------------------- | ----------------------------- |
+| @[\_toxicmofo](689989318118211650) | @[rixov](1289511684058120193) |
 
 On users' birthdays, they can request the 'Enjoy a MARVELous B-day!' role.
 
