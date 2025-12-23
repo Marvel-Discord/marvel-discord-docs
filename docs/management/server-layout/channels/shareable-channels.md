@@ -1,9 +1,13 @@
 ---
 sidebar_position: 4
-sidebar_label: Shareable Channels
+sidebar_label: Shareables Channels
 ---
 
-# Shareable Channels
+# Shareables Channels
+
+## #[collections](1427997357546541156)
+
+TODO
 
 ## #[share-fan-creations](1110201220666228858)
 
