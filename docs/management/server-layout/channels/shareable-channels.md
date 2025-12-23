@@ -13,6 +13,10 @@ TODO
 
 TODO
 
+## #[art-event](1338627758296797275)
+
+See [Art Events](../../events/art-events).
+
 ## #[music](1110797967629242428)
 
 TODO
