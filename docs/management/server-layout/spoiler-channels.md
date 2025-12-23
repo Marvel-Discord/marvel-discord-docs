@@ -88,7 +88,7 @@ Spoiler channels for theatrical releases are closed **roughly around one month**
 4. Add the channel as a selectable option in #[Channels & Roles](0)
    - These questions can be edited in `Settings > Onboarding > Questions`
    - See [Onboarding](../onboarding) for more details
-5. Add link to [#resources-spoiler-archive](../server-guide). See [How to use](../discord-pages/how-to-use.md) for details on how to add links.
+5. Add link to [#resources-spoiler-archive](./channels/server-guide). See [How to use](../discord-pages/how-to-use.md) for details on how to add links.
 6. Post announcement in #[announcements](1110214786223968346) stating that it's open!
 
 ### Closing a spoiler channel
@@ -105,4 +105,4 @@ Spoiler channels for theatrical releases are closed **roughly around one month**
 
 ### Spoiler Channel Archive
 
-See [Spoilers Archive](./archived-channels#spoilers-archive) for details.
+See [Spoilers Archive](./channels/archived-channels#spoilers-archive) for details.
