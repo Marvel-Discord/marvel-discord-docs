@@ -11,7 +11,7 @@ TODO
 
 ## #[comic-spoilers](1109731683177078867)
 
-See [Spoilers](docs/management/server-layout/spoiler-channels.md)
+See [Spoilers](docs/management/server-layout/spoiler-channels.md).
 
 ## #[comic-review-corner](1382732564610945194)
 
