@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label: Spoiler Channels
+sidebar_label: Movies and Games Channels
 ---
 
 # Movies and Games Channels
