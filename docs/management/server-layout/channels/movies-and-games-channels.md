@@ -15,8 +15,8 @@ TODO
 
 ## #[future-screen-spoilers](1109731729385721926)
 
-TODO
+See [Spoilers](docs/management/server-layout/spoiler-channels.md).
 
 ## #[non-marvel-spoilers](1109733536832946196)
 
-TODO
+See [Spoilers](docs/management/server-layout/spoiler-channels.md).
