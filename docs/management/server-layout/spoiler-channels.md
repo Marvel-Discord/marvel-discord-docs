@@ -59,7 +59,7 @@ The bot will find the first result for the provided title, then open an interact
 
 ## Topical spoiler channels
 
-Topical spoiler channels get opened for films, shows, and story games that are soon-to-be or recently released. Games that are long-term (such as live-service games like Rivals and Snap) instead get threads in [#gamerverse](./social-channels#gamerverse).
+Topical spoiler channels get opened for films, shows, and story games that are soon-to-be or recently released. Games that are long-term (such as live-service games like Rivals and Snap) instead get threads in [#gamerverse](./movies-and-games-channels#gamerverse).
 
 These channels are temporary and recycle archived spoiler channels from previous releases.
 
