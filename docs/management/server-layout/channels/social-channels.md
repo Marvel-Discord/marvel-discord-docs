@@ -13,14 +13,14 @@ TODO
 
 TODO
 
-## #[comics](1110200950649524224)
+## #[murderworld](1207619588565499924)
 
 TODO
 
-## #[movies-tv](1110200978839457923)
+## #[true-believers](1110202023514734612)
 
 TODO
 
-## #[gamerverse](1267462027606233222)
+## #[mightiest-heroes](1110202058587525172)
 
-TODO
+Boosters - TODO

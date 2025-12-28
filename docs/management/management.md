@@ -60,8 +60,8 @@ Server management is divided into domains, which are areas of responsibility. Ea
 | Domain                                                                                         | Lead                             | Shadow                             |
 | ---------------------------------------------------------------------------------------------- | -------------------------------- | ---------------------------------- |
 | [News Channels](./server-layout/channels/info-channels#news-channels)                          | @[rocked03](204778476102877187)  | @[bowgaming](299977242870808577)   |
-| [Topical Spoiler Channels](./server-layout/channels/spoiler-channels#topical-spoiler-channels) | @[bowgaming](299977242870808577) | @[\_toxicmofo](689989318118211650) |
-| [Non-Marvel Spoiler Threads](./server-layout/channels/spoiler-channels#non-marvel-spoilers)    | @[bowgaming](299977242870808577) | @[\_toxicmofo](689989318118211650) |
+| [Topical Spoiler Channels](./server-layout/spoiler-channels#topical-spoiler-channels) | @[bowgaming](299977242870808577) | @[\_toxicmofo](689989318118211650) |
+| [Non-Marvel Spoiler Threads](./server-layout/spoiler-channels#non-marvel-spoilers)    | @[bowgaming](299977242870808577) | @[\_toxicmofo](689989318118211650) |
 
 ### Roles
 

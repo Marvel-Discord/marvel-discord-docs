@@ -45,7 +45,7 @@ This role can be toggled in #[Channels & Roles](0). See [Bookclub](../../events/
 
 ## @Murderworld
 
-This role can be toggled in #[Channels & Roles](0). See [#murderworld](../channels/special-channels/#murderworld).
+This role can be toggled in #[Channels & Roles](0). See [#murderworld](../channels/social-channels/#murderworld).
 
 ## @Killjoys Never Die
 
