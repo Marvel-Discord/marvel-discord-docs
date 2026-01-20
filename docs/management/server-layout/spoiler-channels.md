@@ -72,7 +72,7 @@ Spoiler channels for theatrical releases are closed **roughly around one month**
 ### Opening a spoiler channel
 
 1. Rename an archived spoiler channel
-2. Move it to the `Spoilers` category
+2. Move it to the `Movies and Games` category
    - Sync permissions with the category. This is prompted when the channel is initially moved, otherwise can be done in channel settings - `Permissions > "Permissions not synced" > Sync Now`
 3. Post intro message
    - > ```
