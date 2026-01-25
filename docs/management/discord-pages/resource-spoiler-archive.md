@@ -63,7 +63,7 @@ This channel contains a list linking to our archive of all our spoiler channel d
 
 ---
 
-# Very fancy 2026 Banner so beautiful no computer can actually load the image
+![2026 Banner](../../../static/img/discord-pages/2026.png)
 
 ---
 
