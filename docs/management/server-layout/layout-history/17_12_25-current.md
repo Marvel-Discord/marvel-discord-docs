@@ -35,6 +35,7 @@ This layout is the layout currently in use in the server. It was changed from th
 - #[movies-tv](1110200978839457923)
 - #[gamerverse](1267462027606233222)
 - #[future-screen-spoilers](1109731729385721926)
+- #[non-marvel-spoilers](1109733536832946196)
 
 ### Shareables
 - #[collections](1427997357546541156)
