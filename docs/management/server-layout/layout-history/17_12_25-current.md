@@ -24,7 +24,6 @@ This layout is the layout currently in use in the server. It was changed from th
 - #[marvel](1110200897100840960)
 - #[murderworld](1207619588565499924)
 - #[true-believers](1110202023514734612)
-- 
 
 ### Comics
 - #[comics](1110200950649524224)
@@ -60,18 +59,3 @@ This layout is the layout currently in use in the server. It was changed from th
 - #[tykhe-commands-2](1110217858446790656)
 - #[tykhe-trade-board](1111141979376582729)
 - #[tykhe-discussion](1109727127051440148)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
