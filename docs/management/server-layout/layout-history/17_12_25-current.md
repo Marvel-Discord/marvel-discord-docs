@@ -16,14 +16,14 @@ This layout is the layout currently in use in the server. It was changed from th
 - #[movies-tv-news](1109021386015522816)
 - #[misc-news](1109021556371378239)
 - #[server-affiliates](1109728410894356500)
-- #[mightiest-heroes](1110202058587525172)
-- #[The Bar with No Name](1110213374463184936) (voice channel)
 
 ### Social
 - #[general](1108987754349608993)
 - #[marvel](1110200897100840960)
 - #[murderworld](1207619588565499924)
 - #[true-believers](1110202023514734612)
+- #[mightiest-heroes](1110202058587525172)
+- #[The Bar with No Name](1110213374463184936) (voice channel)
 
 ### Comics
 - #[comics](1110200950649524224)
