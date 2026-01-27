@@ -1,0 +1,8 @@
+{
+  "label": "Layout History",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "Current and previous server layouts."
+  }
+}
