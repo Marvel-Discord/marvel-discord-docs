@@ -3,7 +3,7 @@ sidebar_position: 0
 sidebar_label: 17/12/25 - Current
 ---
 
-# 17/12/25 - Current
+# Dec 2025 - Present
 
 This layout is the layout currently in use in the server. It was changed from the previous layout to group channels based on subject instead of type of engagement. Note that the below layout only shows channels accessible by non-staff members that are permanently present.
 
