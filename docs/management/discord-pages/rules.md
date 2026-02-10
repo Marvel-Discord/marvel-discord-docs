@@ -40,14 +40,19 @@ This is the rules channel. All the server rules are explained in detail here.
 
 ---
 
-### 5. Advertisements
+### 5. Alt Accounts
+
+- Alt accounts are not allowed in the server. Using an alt account to evade moderative actions such as a mute or a ban, will result in the alt account getting banned (and possibly harsher action on your main account). Using an alt account for any other purpose will result in the alt account getting kicked.
+- If you lost access to your old account, please contact <@915931490666283058> with your new account so we don't end up kicking your new account.
+
+### 6. Advertisements
 
 - Advertising is not allowed. This includes:
 - Server invites
 - Self-promotion of other Social Media, such as YouTube, Instagram, etc. (this is allowed in a limited quantity in #[share-fan-creations](1110201220666228858))
 - If you feel like you have a valid reason and would like to request an exception, please contact Modmail.
 
-### 6. Roleplay
+### 7. Roleplay
 
 - Roleplay is disruptive to conversation, therefore not allowed. Please do not invoke nor incite roleplay.
 - Impersonation of people (real & fictional), characters, users, etc is prohibited.
