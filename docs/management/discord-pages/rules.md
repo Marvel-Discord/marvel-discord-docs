@@ -43,7 +43,7 @@ This is the rules channel. All the server rules are explained in detail here.
 ### 5. Alt Accounts
 
 - Alt accounts are not allowed in the server. Using an alt account to evade moderative actions such as a mute or a ban, will result in the alt account getting banned (and possibly harsher action on your main account). Using an alt account for any other purpose will result in the alt account getting kicked.
-- If you lost access to your old account, please contact <@915931490666283058> with your new account so we don't end up kicking your new account.
+- If you lost access to your old account, please contact @[Marvel Modmail](915931490666283058) with your new account so we don't end up kicking your new account.
 
 ### 6. Advertisements
 
