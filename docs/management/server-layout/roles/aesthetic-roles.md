@@ -24,6 +24,7 @@ Event roles are often given out for participation in server events.
 - @[Deadpool & Wolverine Art Event](0) (2024)
 - @[Valentine's Art Event 2025](0)
 - @[Holiday Art Event 2025](0)
+- @[Cupid Agent 2026](0) - Art Portion of Valentine's Day Event
 
 ### Miscellaneous Event Roles
 
@@ -35,6 +36,9 @@ Event roles are often given out for participation in server events.
 - @[The Collector](0) & @[Gauntlet Bearer](0) - distributed during the 2025 Infinity Stones inspired event
 - @[Marvel Zombies Survivor](0) - distributed in Finn's 2025 Marvel Zombies Event
 - @[Fantastic Freshmen](0) - distributed in Rory's & Riri's 2025 F4 Event
+- @[Cupid Agent 2026](0) - distributed in Finn & Rory's Valentine's Day Riddle Event
+- @[Daredevil Agent 2026](0) - distributed in Bex & Finn's Daredevil: Born Again S2 Event
+- @[Bow's Law](0) & @[Riri's Rewrite](0) - distributed in Bex & Rory's Civil War: Manager Edition 2026
 
 ### Special roles
 
