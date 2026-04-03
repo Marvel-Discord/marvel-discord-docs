@@ -11,7 +11,7 @@ These are the tasks required to keep the community and channels safe, healthy, a
 
 ## Staff structure
 
-The co-heads of the moderation team are Shake (@[shake.png](1034384071415050300)) and Finn (@[gryphyn](425133411837935628)).
+The co-heads of the moderation team are Finn (@[gryphyn](425133411837935628)) and Julian(@[julianinvictus](621018366655725570)).
 
 The moderation team comprises of the @[Watcher (Moderation)](0) and @[Ultimate (Casual Mod)](0) roles.
 
@@ -19,7 +19,7 @@ The moderation team comprises of the @[Watcher (Moderation)](0) and @[Ultimate (
 
 Watchers are full-time moderators. They have the full responsibilities of a moderator with full moderation capabilities, including bans and appeals.
 
-The current Watcher team consists of @[gryphyn](425133411837935628), @[shake.png](1034384071415050300), @[aurorassummer](1372392956819935383), @[cs0119](582080465482285056), @[ducki_the_great](1173791198545203212), @[m1.k3](179401941334491138), @[milkaatea](816736666361528381), @[morganstarkk](1164870671302660222), and @[vokzul](162453378364997633).
+The current Watcher team consists of @[gryphyn](425133411837935628), @[julianinvictus](621018366655725570), @[aurorassummer](1372392956819935383), @[duckie_the_best](1173791198545203212), @[m1.k3](179401941334491138), @[_toxicmofo](689989318118211650), @[.mor.gan.](1164870671302660222), and @[vokzul](162453378364997633).
 
 ### Ultimates (Casual Moderators)
 
