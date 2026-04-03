@@ -46,7 +46,7 @@ This channel details frequently asked questions in Server Guide.
 ---
 
 ## “I see people posting commands and @[Mr. Turtle](235148962103951360) responds with a preloaded response--what is that about?”
--# * Excellent question! Those are 'snippet' commands we have crafted to respond to users for a myriad of use-cases. Some of the most popular ones are snippets that respond with suggested reading for a given Marvel character or topic. **All snippets use the prefix `?`. Example: `?doom`. __Please only use these commands in #__**[bot-commands](1110201778034720848)
+-# * Excellent question! Those are 'snippet' commands we have crafted to respond to users for a myriad of use-cases. Some of the most popular ones are snippets that respond with suggested reading for a given Marvel character or topic. **All snippets use the prefix `?`. Example: `?doom`. __Please only use these commands in__** #[bot-commands](1110201778034720848)
 -# * Recommended reading commands:
 -# * doom, f4, moonknight, ghostrider, newmutants, xmen, hawkeye, captainamerica, avengers, nightcrawler, spiderman, shehulk, antman, ironman, blade, hulk, ironfist, wolverine, daredevil, silversurfer, thor, thanos, caroldanvers, venom, wintersoldier, blackpanther, defenders, guardians, carnage, blackwidow, drstrange, kamala, deadpool, wandavision, brb
 -# * Other snippet commands:
