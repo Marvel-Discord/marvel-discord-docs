@@ -9,7 +9,7 @@ sidebar_label: Activity Roles
 
 | Manager                          | Shadow                         |
 | -------------------------------- | ------------------------------ |
-| @[shake.png](621018366655725570) | @[gryphyn](425133411837935628) |
+| @[julianinvictus](621018366655725570) | @[gryphyn](425133411837935628) |
 
 Level roles are managed by the MEE6 bot, which tracks the message activity of users in the server. When a user sends a message (once per minute), they accumulate exp that contributes to their level. The levels are as follows:
 
