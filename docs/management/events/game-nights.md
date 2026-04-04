@@ -7,7 +7,7 @@ sidebar_label: Game Nights
 
 | Manager                            | Shadow                        |
 | ---------------------------------- | ----------------------------- |
-| @[\_toxicmofo](689989318118211650) | @[rixov](1289511684058120193) |
+| @[rixov](1289511684058120193)      |                               |
 
 We occasionally host game nights. This is a very broad category for any game night hosted in the server.
 
