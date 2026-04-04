@@ -7,7 +7,7 @@ sidebar_label: Event Listings
 
 | Manager                       | Shadow                            |
 | ----------------------------- | --------------------------------- |
-| @[rixov](1289511684058120193) | @[shake.png](1034384071415050300) |
+| @[rixov](1289511684058120193) |                                   |
 
 Not to be confused with activities run by the server, these Events are listings using Discord's built-in feature.
 
