@@ -7,7 +7,7 @@ sidebar_label: Spoiler Channels
 
 | Manager                          | Shadow                             |
 | -------------------------------- | ---------------------------------- |
-| @[bowgaming](299977242870808577) | @[\_toxicmofo](689989318118211650) |
+| @[bowgaming](299977242870808577) |                                    |
 
 We have spoiler channels in our server to contain spoilery discussions. These are frequently used, as everyone watches content at different times and are most often avoiding spoilers before they watch it.
 
