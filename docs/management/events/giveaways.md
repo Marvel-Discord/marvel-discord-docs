@@ -7,7 +7,7 @@ sidebar_label: Giveaways
 
 | Manager                           | Shadow                         |
 | --------------------------------- | ------------------------------ |
-| @[shake.png](1034384071415050300) | @[gryphyn](425133411837935628) |
+| @[gryphyn](425133411837935628)    |                                |
 
 Occasionally we will host giveaways in the server. These normally correlate with significant events (e.g., anniversaries, server milestones, etc.) or as prizes for activities and events. Occasionally, we may also host giveaways if a user is willing to donate a prize.
 
