@@ -31,7 +31,7 @@ The Marvel Discord is a community-run server celebrating the Marvel franchise. C
 * The @&[TB Alumni](1396111127271706698) role is given to former members of the True Belivers. Since the True Believers role is not permanent, we still wanted to find a way to honor those who have held it in the past, as recognition for their contribution to the Marvel Discord. It also comes with a neat role color style.
 ---
 ## Levels
-* Our server uses a levelling role structure that is managed by @[MEE6](159985870458322944). You can earn XP as you chat (15-20 XP for one message you send per minute). Higher levels reward you with more valuable roles, which include more permissions:
+* Our server uses a levelling role structure that is managed by @[Prodigy](518129184338345985). You can earn XP as you chat (15-20 XP for one message you send per minute). Higher levels reward you with more valuable roles, which include more permissions:
  * @&[SHIELD Recruit](287087712765476864) (Level 1) - Connect to Voice Chat
  * @&[Inhuman](1109390288549584936) (Level 3) - Send Files, Add Reactions, Change Nickname
  * @&[New Mutant](287087791274328064) (Level 10) - Embed Links, Speak in Voice Chat
