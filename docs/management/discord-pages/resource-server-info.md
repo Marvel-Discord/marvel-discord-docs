@@ -20,15 +20,16 @@ The Marvel Discord is a community-run server celebrating the Marvel franchise. C
 
 ---
 
-# Server Structure
 ## Staff
 * The @&[Server Staff](281649289397141505) role is the general-purpose staff role--it encompasses every member of the Marvel Discord staff team. While staff typically specialize in one area (management or moderation), *any* member of the Server Staff team can attempt to help you with a problem you may be facing, or can direct you to another member of staff who is better suited to help with any individual case. To contact us, please see #[resource-contact-staff](1109723001836011621).
 * The @&[Watcher (Moderator)](1331074887082704916) role is given to members of staff who are on our Moderation team. They are adept at content and community moderation, and handle the bulk of the cases that involve moderative action (warns, mutes, bans, etc). 
 * The @&[Ultimate (Casual Mod)](1328709294413058149) role is given to members of staff who are __typically__ temporary members of our Moderation team. They have many of the same technical permissions that @&[Watcher (Moderator)](1331074887082704916)s have, but are rotated in and out on a regular basis to keep the team fresh. They are an awesome (ultimate, even) resource for both the community and the staff team, and we would not be able to deliver such an incredible experience without them. They are invaluable to our community, and they keep the engines burning all hours of the day!
 * The @&[Celestial (Manager)](1328964907420356608) role is given to members of staff who are on our Management team. These staff members help organize events, make structural changes to the Discord server, and work in tandem with the Moderation team to deliver an outstanding experience for all users in the server. You can often find them changing the lightbulbs, or putting up a fresh coat of paint (figuratively). 
+---
 ## True Believers
 * The @&[True Believers](281650017285177344) are our most valued members of our community, as evaluated by the staff. This is a role that is earnt over time and by building a good reputation within our community. It is given out on a case-by-case basis, and is earnt, not requested.
 * The @&[TB Alumni](1396111127271706698) role is given to former members of the True Belivers. Since the True Believers role is not permanent, we still wanted to find a way to honor those who have held it in the past, as recognition for their contribution to the Marvel Discord. It also comes with a neat role color style.
+---
 ## Levels
 * Our server uses a levelling role structure that is managed by @[MEE6](159985870458322944). You can earn XP as you chat (15-20 XP for one message you send per minute). Higher levels reward you with more valuable roles, which include more permissions:
  * @&[SHIELD Recruit](287087712765476864) (Level 1) - Connect to Voice Chat

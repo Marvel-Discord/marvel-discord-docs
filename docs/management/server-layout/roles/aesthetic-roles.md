@@ -9,7 +9,7 @@ sidebar_label: Aesthetic Roles
 
 | Manager                            | Shadow                           |
 | ---------------------------------- | -------------------------------- |
-| @[\_toxicmofo](689989318118211650) | @[bowgaming](299977242870808577) |
+| @[bowgaming](299977242870808577)   |                                  |
 
 Event roles are often given out for participation in server events.
 
