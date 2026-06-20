@@ -14,9 +14,9 @@ sidebar_label: Aesthetic Roles
 Event roles are often given out for participation in server events.
 
 ## Celebrating 100K Members 
-- @[100K Event Avengers](0): Obtained by participating in at least five days of the seven day event!
-- @[100K Event Agents](0): Obtained by participating in at least three days of the seven day event!
-- @[100K Celebrator](0): Given to anyone who joined Marvel Discord at the time of hitting the milestone through [Channels & Roles](0)!
+- @[100K Event Avengers](0): Obtained by participating in at least five days of the seven day event
+- @[100K Event Agents](0): Obtained by participating in at least three days of the seven day event
+- @[100K Celebrator](0): Given to anyone who joined Marvel Discord at the time of hitting the milestone through [Channels & Roles](0)
 
 ### Art Event Roles
 
