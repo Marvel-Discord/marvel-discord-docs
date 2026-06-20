@@ -7,9 +7,9 @@ sidebar_label: Aesthetic Roles
 
 ## Event Roles
 
-| Manager                            | Shadow                           |
-| ---------------------------------- | -------------------------------- |
-| @[bowgaming](299977242870808577)   |                                  |
+| Manager                          | Shadow |
+| -------------------------------- | ------ |
+| @[bowgaming](299977242870808577) |        |
 
 Event roles are often given out for participation in server events.
 
@@ -27,6 +27,7 @@ Event roles are often given out for participation in server events.
 - @[Cupid Agent 2026](0) - Art Portion of Valentine's Day Event
 
 ### Bracket Tournament Roles
+
 - @[Thunderbolts Bracket Winner 2025](0)
 - @[F4 Bracket Winner 2025](0)
 
@@ -41,9 +42,9 @@ Event roles are often given out for participation in server events.
 - @[Cupid Agent 2026](0) - distributed in Finn & Rory's Valentine's Day Riddle Event
 - @[Daredevil Agent 2026](0) - distributed in Bex & Finn's Daredevil: Born Again S2 Event
 - @[Bow's Law](0) & @[Riri's Rewrite](0) - distributed in Bex & Rory's Civil War: Manager Edition 2026
-- @[100K Event Avengers](0): Obtained by participating in at least five days of the seven day event
-- @[100K Event Agents](0): Obtained by participating in at least three days of the seven day event
-- @[100K Celebrator](0): Given to anyone who joined Marvel Discord at the time of hitting the milestone through [Channels & Roles](0)
+- @[100K Event Avengers](0) - Obtained by participating in at least five days of the seven day event
+- @[100K Event Agents](0) - Obtained by participating in at least three days of the seven day event
+- @[100K Celebrator](0) - Given to anyone who joined Marvel Discord at the time of hitting the milestone through [Channels & Roles](0)
 - @[Blurplers](0) - distributed to those who contributed to MD's artwork on Project Blurple Canvas 2026
 - @[Detective Spiderlings](0) - distributed in Bex & Rain's 2026 Spider-Noir Themed Event
 
