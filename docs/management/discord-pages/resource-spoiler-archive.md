@@ -72,3 +72,4 @@ This channel contains a list linking to our archive of all our spoiler channel d
 - **The Punisher: One Last Kill**: https://discord.com/channels/281648235557421056/1109731769269366834/1502372133169397870
 - **Spider-Noir**: https://discord.com/channels/281648235557421056/1109731838290829322/1506733264973598970
 - **X-Men '97**: https://discord.com/channels/281648235557421056/1109731773815992361/1521859052995608708
+- **Spider-Man: Brand New Day**: https://discord.com/channels/281648235557421056/1109731838290829322/1531228511933698074
