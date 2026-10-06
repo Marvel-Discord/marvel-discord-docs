@@ -49,7 +49,7 @@ This is the rules channel. All the server rules are explained in detail here.
 
 - Advertising is not allowed. This includes:
 - Server invites
-- Self-promotion of other Social Media, such as YouTube, Instagram, etc. (this is allowed in a limited quantity in #[share-fan-creations](1110201220666228858))
+- Self-promotion of other Social Media, such as YouTube, Instagram, etc. (this is allowed in a limited quantity in #[share-fan-creations](1553367967402692658) and #[share-fan-creations-forum](1110201220666228858), see rule 3.2)
 - If you feel like you have a valid reason and would like to request an exception, please contact Modmail.
 
 ### 7. Roleplay
@@ -76,9 +76,44 @@ We provide numerous spaces to discuss spoilers for recent content. We expect all
 
 ---
 
+## 3. Content Sharing
+
+- We have 2 channels where you can share your art and other creations, #[share-fan-creations](1553367967402692658) and #[share-fan-creations-forum](1110201220666228858). You are free to share all your creativity here, though there are some rules to follow:
+
+### 1. Content
+
+- Only share creations you made yourself. The art channels are there for you to share your own art, not art by other creators that you like.
+- You are allowed to share art of people you know, as long as they consent to you sharing their art and you give them credit.
+- You can share creations of any kind, be it drawings, paintings, comics, poems, cosplay, 3D prints, video edits, etc.
+- Don't share low-effort creations. Troll posts will be removed. You *are* allowed to share progress updates of what you are working on.
+
+### 2. Self-Promotion
+
+- Self-promotion in the art channels is allowed in *limited* capacity. You are allowed to share links to social media platforms where you share your art, such as YouTube, Instagram, etc.
+- You are only allowed to share such links if accompanied by a relevant post. For example, you can share a post of a drawing you made along with a link to your social media where you share more art. You **cannot** just simply share a link to your socials without an accompanying post.
+- Promotion for services that are paid are not allowed in any capacity. You cannot share links to web shops, promote doing commissions, etc.
+
+### 3. AI Creations
+
+- As per rule 3.1, it is only allowed to share creations made by yourself or people you know. As such, sharing creations made by AI is not allowed as it is not made by yourself.
+- However, if you create something where you did a significant part, and you used AI for part of it, it is allowed to share this, **as long as you are clear about using AI**. For example, if you write a comic book by yourself and use AI for the art, you are allowed to share this.
+
+---
+
+### 4. Forum Tags
+
+- When making a forum post, make sure to apply the appropriate forum tags. If your post includes AI, self promotion or spoilers and you did not apply the appropriate tags, your post will be removed.
+
+### 5. Server Rules
+
+- All other server rules still apply in the art channels. As such, you are not allowed to share NSFW creations or strongly political creations. 
+- If you want to share creations that contain spoilers for upcoming or recent releases, you need to spoiler mark your creations along with stating what movie/show/game/etc. it contains spoilers for.
+
+---
+
 # **Behaviour Rules**
 
-## 3. We expect:
+## 4. We expect:
 
 ### 1. No drama
 
@@ -96,13 +131,13 @@ We provide numerous spaces to discuss spoilers for recent content. We expect all
 
 ---
 
-## 4. Don’t be a rules lawyer
+## 5. Don’t be a rules lawyer
 
 - These rules are an **outline** of what we expect in our server. This server’s moderators reserve the right to make decisions based on their own judgement, even if something is not explicitly in breach of these rules.
 - We ask that you do not “minimod” - moderators enforce the rules such that you do not need to yourself.
 - Please follow these rules as they exist for the benefit of the health and wellbeing of the community.
 
-## 5. Follow Discord’s ToS & Guidelines
+## 6. Follow Discord’s ToS & Guidelines
 
 - As a public community on Discord, our rules are a superset of Discord’s own Terms of Service and Guidelines, which we also enforce.
 - Terms of Service - !https://dis.gd/tos
